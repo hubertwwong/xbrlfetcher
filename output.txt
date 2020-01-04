@@ -1,0 +1,530 @@
+/tmp/xbrl/index
+Extracting /tmp/xbrl/index/1993/QTR1/xbrl.gz complete.
+Description:           XBRL Index of EDGAR Dissemination Feed
+Last Data Received:    March 31, 1993
+Comments:              webmaster@sec.gov
+Anonymous FTP:         ftp://ftp.sec.gov/edgar/
+ 
+ 
+ 
+ 
+CIK|Company Name|Form Type|Date Filed|Filename
+--------------------------------------------------------------------------------
+Extracting /tmp/xbrl/index/1993/QTR2/xbrl.gz complete.
+Description:           XBRL Index of EDGAR Dissemination Feed
+Last Data Received:    June 30, 1993
+Comments:              webmaster@sec.gov
+Anonymous FTP:         ftp://ftp.sec.gov/edgar/
+ 
+ 
+ 
+ 
+CIK|Company Name|Form Type|Date Filed|Filename
+--------------------------------------------------------------------------------
+Extracting /tmp/xbrl/index/1993/QTR3/xbrl.gz complete.
+Description:           XBRL Index of EDGAR Dissemination Feed
+Last Data Received:    September 30, 1993
+Comments:              webmaster@sec.gov
+Anonymous FTP:         ftp://ftp.sec.gov/edgar/
+ 
+ 
+ 
+ 
+CIK|Company Name|Form Type|Date Filed|Filename
+--------------------------------------------------------------------------------
+Extracting /tmp/xbrl/index/1993/QTR4/xbrl.gz complete.
+Description:           XBRL Index of EDGAR Dissemination Feed
+Last Data Received:    December 31, 1993
+Comments:              webmaster@sec.gov
+Anonymous FTP:         ftp://ftp.sec.gov/edgar/
+ 
+ 
+ 
+ 
+CIK|Company Name|Form Type|Date Filed|Filename
+--------------------------------------------------------------------------------
+Extracting /tmp/xbrl/index/1994/QTR1/xbrl.gz complete.
+Description:           XBRL Index of EDGAR Dissemination Feed
+Last Data Received:    March 31, 1994
+Comments:              webmaster@sec.gov
+Anonymous FTP:         ftp://ftp.sec.gov/edgar/
+ 
+ 
+ 
+ 
+CIK|Company Name|Form Type|Date Filed|Filename
+--------------------------------------------------------------------------------
+Extracting /tmp/xbrl/index/1994/QTR2/xbrl.gz complete.
+Description:           XBRL Index of EDGAR Dissemination Feed
+Last Data Received:    June 30, 1994
+Comments:              webmaster@sec.gov
+Anonymous FTP:         ftp://ftp.sec.gov/edgar/
+ 
+ 
+ 
+ 
+CIK|Company Name|Form Type|Date Filed|Filename
+--------------------------------------------------------------------------------
+Extracting /tmp/xbrl/index/1994/QTR3/xbrl.gz complete.
+Description:           XBRL Index of EDGAR Dissemination Feed
+Last Data Received:    September 30, 1994
+Comments:              webmaster@sec.gov
+Anonymous FTP:         ftp://ftp.sec.gov/edgar/
+ 
+ 
+ 
+ 
+CIK|Company Name|Form Type|Date Filed|Filename
+--------------------------------------------------------------------------------
+Extracting /tmp/xbrl/index/1994/QTR4/xbrl.gz complete.
+Description:           XBRL Index of EDGAR Dissemination Feed
+Last Data Received:    December 31, 1994
+Comments:              webmaster@sec.gov
+Anonymous FTP:         ftp://ftp.sec.gov/edgar/
+ 
+ 
+ 
+ 
+CIK|Company Name|Form Type|Date Filed|Filename
+--------------------------------------------------------------------------------
+Extracting /tmp/xbrl/index/1995/QTR1/xbrl.gz complete.
+Description:           XBRL Index of EDGAR Dissemination Feed
+Last Data Received:    March 31, 1995
+Comments:              webmaster@sec.gov
+Anonymous FTP:         ftp://ftp.sec.gov/edgar/
+ 
+ 
+ 
+ 
+CIK|Company Name|Form Type|Date Filed|Filename
+--------------------------------------------------------------------------------
+Extracting /tmp/xbrl/index/1995/QTR2/xbrl.gz complete.
+Description:           XBRL Index of EDGAR Dissemination Feed
+Last Data Received:    June 30, 1995
+Comments:              webmaster@sec.gov
+Anonymous FTP:         ftp://ftp.sec.gov/edgar/
+ 
+ 
+ 
+ 
+CIK|Company Name|Form Type|Date Filed|Filename
+--------------------------------------------------------------------------------
+Extracting /tmp/xbrl/index/1995/QTR3/xbrl.gz complete.
+Description:           XBRL Index of EDGAR Dissemination Feed
+Last Data Received:    September 30, 1995
+Comments:              webmaster@sec.gov
+Anonymous FTP:         ftp://ftp.sec.gov/edgar/
+ 
+ 
+ 
+ 
+CIK|Company Name|Form Type|Date Filed|Filename
+--------------------------------------------------------------------------------
+Extracting /tmp/xbrl/index/1995/QTR4/xbrl.gz complete.
+Description:           XBRL Index of EDGAR Dissemination Feed
+Last Data Received:    December 31, 1995
+Comments:              webmaster@sec.gov
+Anonymous FTP:         ftp://ftp.sec.gov/edgar/
+ 
+ 
+ 
+ 
+CIK|Company Name|Form Type|Date Filed|Filename
+--------------------------------------------------------------------------------
+Extracting /tmp/xbrl/index/1996/QTR1/xbrl.gz complete.
+Description:           XBRL Index of EDGAR Dissemination Feed
+Last Data Received:    March 31, 1996
+Comments:              webmaster@sec.gov
+Anonymous FTP:         ftp://ftp.sec.gov/edgar/
+ 
+ 
+ 
+ 
+CIK|Company Name|Form Type|Date Filed|Filename
+--------------------------------------------------------------------------------
+Extracting /tmp/xbrl/index/1996/QTR2/xbrl.gz complete.
+Description:           XBRL Index of EDGAR Dissemination Feed
+Last Data Received:    June 30, 1996
+Comments:              webmaster@sec.gov
+Anonymous FTP:         ftp://ftp.sec.gov/edgar/
+ 
+ 
+ 
+ 
+CIK|Company Name|Form Type|Date Filed|Filename
+--------------------------------------------------------------------------------
+Extracting /tmp/xbrl/index/1996/QTR3/xbrl.gz complete.
+Description:           XBRL Index of EDGAR Dissemination Feed
+Last Data Received:    September 30, 1996
+Comments:              webmaster@sec.gov
+Anonymous FTP:         ftp://ftp.sec.gov/edgar/
+ 
+ 
+ 
+ 
+CIK|Company Name|Form Type|Date Filed|Filename
+--------------------------------------------------------------------------------
+Extracting /tmp/xbrl/index/1996/QTR4/xbrl.gz complete.
+Description:           XBRL Index of EDGAR Dissemination Feed
+Last Data Received:    December 31, 1996
+Comments:              webmaster@sec.gov
+Anonymous FTP:         ftp://ftp.sec.gov/edgar/
+ 
+ 
+ 
+ 
+CIK|Company Name|Form Type|Date Filed|Filename
+--------------------------------------------------------------------------------
+Extracting /tmp/xbrl/index/1997/QTR1/xbrl.gz complete.
+Description:           XBRL Index of EDGAR Dissemination Feed
+Last Data Received:    March 31, 1997
+Comments:              webmaster@sec.gov
+Anonymous FTP:         ftp://ftp.sec.gov/edgar/
+ 
+ 
+ 
+ 
+CIK|Company Name|Form Type|Date Filed|Filename
+--------------------------------------------------------------------------------
+Extracting /tmp/xbrl/index/1997/QTR2/xbrl.gz complete.
+Description:           XBRL Index of EDGAR Dissemination Feed
+Last Data Received:    June 30, 1997
+Comments:              webmaster@sec.gov
+Anonymous FTP:         ftp://ftp.sec.gov/edgar/
+ 
+ 
+ 
+ 
+CIK|Company Name|Form Type|Date Filed|Filename
+--------------------------------------------------------------------------------
+Extracting /tmp/xbrl/index/1997/QTR3/xbrl.gz complete.
+Description:           XBRL Index of EDGAR Dissemination Feed
+Last Data Received:    September 30, 1997
+Comments:              webmaster@sec.gov
+Anonymous FTP:         ftp://ftp.sec.gov/edgar/
+ 
+ 
+ 
+ 
+CIK|Company Name|Form Type|Date Filed|Filename
+--------------------------------------------------------------------------------
+Extracting /tmp/xbrl/index/1997/QTR4/xbrl.gz complete.
+Description:           XBRL Index of EDGAR Dissemination Feed
+Last Data Received:    December 31, 1997
+Comments:              webmaster@sec.gov
+Anonymous FTP:         ftp://ftp.sec.gov/edgar/
+ 
+ 
+ 
+ 
+CIK|Company Name|Form Type|Date Filed|Filename
+--------------------------------------------------------------------------------
+Extracting /tmp/xbrl/index/1998/QTR1/xbrl.gz complete.
+Description:           XBRL Index of EDGAR Dissemination Feed
+Last Data Received:    March 31, 1998
+Comments:              webmaster@sec.gov
+Anonymous FTP:         ftp://ftp.sec.gov/edgar/
+ 
+ 
+ 
+ 
+CIK|Company Name|Form Type|Date Filed|Filename
+--------------------------------------------------------------------------------
+Extracting /tmp/xbrl/index/1998/QTR2/xbrl.gz complete.
+Description:           XBRL Index of EDGAR Dissemination Feed
+Last Data Received:    June 30, 1998
+Comments:              webmaster@sec.gov
+Anonymous FTP:         ftp://ftp.sec.gov/edgar/
+ 
+ 
+ 
+ 
+CIK|Company Name|Form Type|Date Filed|Filename
+--------------------------------------------------------------------------------
+Extracting /tmp/xbrl/index/1998/QTR3/xbrl.gz complete.
+Description:           XBRL Index of EDGAR Dissemination Feed
+Last Data Received:    September 30, 1998
+Comments:              webmaster@sec.gov
+Anonymous FTP:         ftp://ftp.sec.gov/edgar/
+ 
+ 
+ 
+ 
+CIK|Company Name|Form Type|Date Filed|Filename
+--------------------------------------------------------------------------------
+Extracting /tmp/xbrl/index/1998/QTR4/xbrl.gz complete.
+Description:           XBRL Index of EDGAR Dissemination Feed
+Last Data Received:    December 31, 1998
+Comments:              webmaster@sec.gov
+Anonymous FTP:         ftp://ftp.sec.gov/edgar/
+ 
+ 
+ 
+ 
+CIK|Company Name|Form Type|Date Filed|Filename
+--------------------------------------------------------------------------------
+Extracting /tmp/xbrl/index/1999/QTR1/xbrl.gz complete.
+Description:           XBRL Index of EDGAR Dissemination Feed
+Last Data Received:    March 31, 1999
+Comments:              webmaster@sec.gov
+Anonymous FTP:         ftp://ftp.sec.gov/edgar/
+ 
+ 
+ 
+ 
+CIK|Company Name|Form Type|Date Filed|Filename
+--------------------------------------------------------------------------------
+Extracting /tmp/xbrl/index/1999/QTR2/xbrl.gz complete.
+Description:           XBRL Index of EDGAR Dissemination Feed
+Last Data Received:    June 30, 1999
+Comments:              webmaster@sec.gov
+Anonymous FTP:         ftp://ftp.sec.gov/edgar/
+ 
+ 
+ 
+ 
+CIK|Company Name|Form Type|Date Filed|Filename
+--------------------------------------------------------------------------------
+Extracting /tmp/xbrl/index/1999/QTR3/xbrl.gz complete.
+Description:           XBRL Index of EDGAR Dissemination Feed
+Last Data Received:    September 30, 1999
+Comments:              webmaster@sec.gov
+Anonymous FTP:         ftp://ftp.sec.gov/edgar/
+ 
+ 
+ 
+ 
+CIK|Company Name|Form Type|Date Filed|Filename
+--------------------------------------------------------------------------------
+Extracting /tmp/xbrl/index/1999/QTR4/xbrl.gz complete.
+Description:           XBRL Index of EDGAR Dissemination Feed
+Last Data Received:    December 31, 1999
+Comments:              webmaster@sec.gov
+Anonymous FTP:         ftp://ftp.sec.gov/edgar/
+ 
+ 
+ 
+ 
+CIK|Company Name|Form Type|Date Filed|Filename
+--------------------------------------------------------------------------------
+Extracting /tmp/xbrl/index/2000/QTR1/xbrl.gz complete.
+Description:           XBRL Index of EDGAR Dissemination Feed
+Last Data Received:    March 31, 2000
+Comments:              webmaster@sec.gov
+Anonymous FTP:         ftp://ftp.sec.gov/edgar/
+ 
+ 
+ 
+ 
+CIK|Company Name|Form Type|Date Filed|Filename
+--------------------------------------------------------------------------------
+Extracting /tmp/xbrl/index/2000/QTR2/xbrl.gz complete.
+Description:           XBRL Index of EDGAR Dissemination Feed
+Last Data Received:    June 30, 2000
+Comments:              webmaster@sec.gov
+Anonymous FTP:         ftp://ftp.sec.gov/edgar/
+ 
+ 
+ 
+ 
+CIK|Company Name|Form Type|Date Filed|Filename
+--------------------------------------------------------------------------------
+Extracting /tmp/xbrl/index/2000/QTR3/xbrl.gz complete.
+Description:           XBRL Index of EDGAR Dissemination Feed
+Last Data Received:    September 30, 2000
+Comments:              webmaster@sec.gov
+Anonymous FTP:         ftp://ftp.sec.gov/edgar/
+ 
+ 
+ 
+ 
+CIK|Company Name|Form Type|Date Filed|Filename
+--------------------------------------------------------------------------------
+Extracting /tmp/xbrl/index/2000/QTR4/xbrl.gz complete.
+Description:           XBRL Index of EDGAR Dissemination Feed
+Last Data Received:    December 31, 2000
+Comments:              webmaster@sec.gov
+Anonymous FTP:         ftp://ftp.sec.gov/edgar/
+ 
+ 
+ 
+ 
+CIK|Company Name|Form Type|Date Filed|Filename
+--------------------------------------------------------------------------------
+Extracting /tmp/xbrl/index/2001/QTR1/xbrl.gz complete.
+Description:           XBRL Index of EDGAR Dissemination Feed
+Last Data Received:    March 31, 2001
+Comments:              webmaster@sec.gov
+Anonymous FTP:         ftp://ftp.sec.gov/edgar/
+ 
+ 
+ 
+ 
+CIK|Company Name|Form Type|Date Filed|Filename
+--------------------------------------------------------------------------------
+Extracting /tmp/xbrl/index/2001/QTR2/xbrl.gz complete.
+Description:           XBRL Index of EDGAR Dissemination Feed
+Last Data Received:    June 30, 2001
+Comments:              webmaster@sec.gov
+Anonymous FTP:         ftp://ftp.sec.gov/edgar/
+ 
+ 
+ 
+ 
+CIK|Company Name|Form Type|Date Filed|Filename
+--------------------------------------------------------------------------------
+Extracting /tmp/xbrl/index/2001/QTR3/xbrl.gz complete.
+Description:           XBRL Index of EDGAR Dissemination Feed
+Last Data Received:    September 30, 2001
+Comments:              webmaster@sec.gov
+Anonymous FTP:         ftp://ftp.sec.gov/edgar/
+ 
+ 
+ 
+ 
+CIK|Company Name|Form Type|Date Filed|Filename
+--------------------------------------------------------------------------------
+Extracting /tmp/xbrl/index/2001/QTR4/xbrl.gz complete.
+Description:           XBRL Index of EDGAR Dissemination Feed
+Last Data Received:    December 31, 2001
+Comments:              webmaster@sec.gov
+Anonymous FTP:         ftp://ftp.sec.gov/edgar/
+ 
+ 
+ 
+ 
+CIK|Company Name|Form Type|Date Filed|Filename
+--------------------------------------------------------------------------------
+Extracting /tmp/xbrl/index/2002/QTR1/xbrl.gz complete.
+Description:           XBRL Index of EDGAR Dissemination Feed
+Last Data Received:    March 31, 2002
+Comments:              webmaster@sec.gov
+Anonymous FTP:         ftp://ftp.sec.gov/edgar/
+ 
+ 
+ 
+ 
+CIK|Company Name|Form Type|Date Filed|Filename
+--------------------------------------------------------------------------------
+Extracting /tmp/xbrl/index/2002/QTR2/xbrl.gz complete.
+Description:           XBRL Index of EDGAR Dissemination Feed
+Last Data Received:    June 30, 2002
+Comments:              webmaster@sec.gov
+Anonymous FTP:         ftp://ftp.sec.gov/edgar/
+ 
+ 
+ 
+ 
+CIK|Company Name|Form Type|Date Filed|Filename
+--------------------------------------------------------------------------------
+Extracting /tmp/xbrl/index/2002/QTR3/xbrl.gz complete.
+Description:           XBRL Index of EDGAR Dissemination Feed
+Last Data Received:    September 30, 2002
+Comments:              webmaster@sec.gov
+Anonymous FTP:         ftp://ftp.sec.gov/edgar/
+ 
+ 
+ 
+ 
+CIK|Company Name|Form Type|Date Filed|Filename
+--------------------------------------------------------------------------------
+Extracting /tmp/xbrl/index/2002/QTR4/xbrl.gz complete.
+Description:           XBRL Index of EDGAR Dissemination Feed
+Last Data Received:    December 31, 2002
+Comments:              webmaster@sec.gov
+Anonymous FTP:         ftp://ftp.sec.gov/edgar/
+ 
+ 
+ 
+ 
+CIK|Company Name|Form Type|Date Filed|Filename
+--------------------------------------------------------------------------------
+Extracting /tmp/xbrl/index/2003/QTR1/xbrl.gz complete.
+Description:           XBRL Index of EDGAR Dissemination Feed
+Last Data Received:    March 31, 2003
+Comments:              webmaster@sec.gov
+Anonymous FTP:         ftp://ftp.sec.gov/edgar/
+ 
+ 
+ 
+ 
+CIK|Company Name|Form Type|Date Filed|Filename
+--------------------------------------------------------------------------------
+Extracting /tmp/xbrl/index/2003/QTR2/xbrl.gz complete.
+Description:           XBRL Index of EDGAR Dissemination Feed
+Last Data Received:    June 30, 2003
+Comments:              webmaster@sec.gov
+Anonymous FTP:         ftp://ftp.sec.gov/edgar/
+ 
+ 
+ 
+ 
+CIK|Company Name|Form Type|Date Filed|Filename
+--------------------------------------------------------------------------------
+Extracting /tmp/xbrl/index/2003/QTR3/xbrl.gz complete.
+Description:           XBRL Index of EDGAR Dissemination Feed
+Last Data Received:    September 30, 2003
+Comments:              webmaster@sec.gov
+Anonymous FTP:         ftp://ftp.sec.gov/edgar/
+ 
+ 
+ 
+ 
+CIK|Company Name|Form Type|Date Filed|Filename
+--------------------------------------------------------------------------------
+Extracting /tmp/xbrl/index/2003/QTR4/xbrl.gz complete.
+Description:           XBRL Index of EDGAR Dissemination Feed
+Last Data Received:    December 31, 2003
+Comments:              webmaster@sec.gov
+Anonymous FTP:         ftp://ftp.sec.gov/edgar/
+ 
+ 
+ 
+ 
+CIK|Company Name|Form Type|Date Filed|Filename
+--------------------------------------------------------------------------------
+Extracting /tmp/xbrl/index/2004/QTR1/xbrl.gz complete.
+Description:           XBRL Index of EDGAR Dissemination Feed
+Last Data Received:    March 31, 2004
+Comments:              webmaster@sec.gov
+Anonymous FTP:         ftp://ftp.sec.gov/edgar/
+ 
+ 
+ 
+ 
+CIK|Company Name|Form Type|Date Filed|Filename
+--------------------------------------------------------------------------------
+Extracting /tmp/xbrl/index/2004/QTR2/xbrl.gz complete.
+Description:           XBRL Index of EDGAR Dissemination Feed
+Last Data Received:    June 30, 2004
+Comments:              webmaster@sec.gov
+Anonymous FTP:         ftp://ftp.sec.gov/edgar/
+ 
+ 
+ 
+ 
+CIK|Company Name|Form Type|Date Filed|Filename
+--------------------------------------------------------------------------------
+Extracting /tmp/xbrl/index/2004/QTR3/xbrl.gz complete.
+Description:           XBRL Index of EDGAR Dissemination Feed
+Last Data Received:    September 30, 2004
+Comments:              webmaster@sec.gov
+Anonymous FTP:         ftp://ftp.sec.gov/edgar/
+ 
+ 
+ 
+ 
+CIK|Company Name|Form Type|Date Filed|Filename
+--------------------------------------------------------------------------------
+Extracting /tmp/xbrl/index/2004/QTR4/xbrl.gz complete.
+Description:           XBRL Index of EDGAR Dissemination Feed
+Last Data Received:    December 31, 2004
+Comments:              webmaster@sec.gov
+Anonymous FTP:         ftp://ftp.sec.gov/edgar/
+ 
+ 
+ 
+ 
+CIK|Company Name|Form Type|Date Filed|Filename
+--------------------------------------------------------------------------------
+1107194|CENTILLIUM COMMUNICATIONS INC|SC TO-I/A|2004-12-13|edgar/data/1107194/0000891618-04-001377.txt

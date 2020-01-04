@@ -2,3 +2,5 @@ com/gohubert/xbrlfetcher/Zip.class
 com/gohubert/xbrlfetcher/App.class
 com/gohubert/xbrlfetcher/Fetch.class
 com/gohubert/xbrlfetcher/Env.class
+com/gohubert/xbrlfetcher/IndexRow.class
+com/gohubert/xbrlfetcher/Parse.class

@@ -1,12 +1,33 @@
 # xbrlfetcher
 
-Fetch a bunch of xbrl files from the SEC.
+Fetch xbrl files from the SEC.
+
+## Basics
+
+1. Grabs all index files which are gzipped.
+2. From the index files, grab the actual files.
+
 
 ## TODO
 
 some error checking for fetch
 
 xbrl index decompression and parsing....
+
+docker env not working. fix it.
+
+bounds checking on functions
+
+grab the actual xbrl files
+
+unit testing
+
+better path mechanism...
+- instead of string conncat.
+
+better documentation
+
+
 
 ## Notes
 
