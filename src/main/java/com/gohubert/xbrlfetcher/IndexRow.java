@@ -54,7 +54,6 @@ public class IndexRow {
 
   // Factory that returns a IndexRow.
   public static IndexRow create(String row) {
-    //System.out.println("> " + row);
     // pipe char need to be escaped
     String[] cols = row.split("\\|");
     IndexRow curRow = null;

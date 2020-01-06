@@ -10,15 +10,32 @@ Fetch xbrl files from the SEC.
 
 ## TODO
 
+Probably need a way to display errors.
+1. ID the class of errors.
+2. Add some meaningful error messages.
+
+probably a way to specify args for to run each command.
+- like a command for the grabbing the index.
+- one to grab the xbrl files.
+
+env not working when running the jar directly.
+
+docker-compose not reading the idx.
+- seems to be something with my setup of compose.
+- hardcoding a file allows the parse to happen.
+- basically the index files are invalid...
+
 some error checking for fetch
 
 xbrl index decompression and parsing....
+FIXED. BASICALLY YOU NEED TO DECLARE THEM in the docker-compose file.
 
-docker env not working. fix it.
+
+docker env not working. fix it. Not sure why this is broken. I have other docker projects that have this working.
 
 bounds checking on functions
 
-grab the actual xbrl files
+grab the actual xbrl files (rough version is working)
 
 unit testing
 
@@ -26,6 +43,11 @@ better path mechanism...
 - instead of string conncat.
 
 better documentation
+
+relative directory output
+- not sure how to fix this. I think its a function of docker.
+- maybe just provide an options.
+- or use a softlink
 
 
 

@@ -3,6 +3,16 @@ version: '3'
 services:
   app:
     image: "maven:latest"
+    environment:
+      - TMP_DIR
+      - XBRL_ACTUAL_DIR
+      - XBRL_DOWNLOAD_DELAY
+      - XBRL_FULL_INDEX_URL_PREFIX
+      - XBRL_OUTPUT_FILENAME
+      - XBRL_INDEX_DIR
+      - XBRL_START_YEAR
+      - XBRL_URL_PREFIX
+      - XBRL_ZIP_FILENAME
     volumes:
       - ./:/app
     command: sh -c 'cd app && mvn clean && mvn package && java -jar target/xbrlfetcher-1.0-SNAPSHOT.jar'

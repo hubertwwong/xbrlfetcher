@@ -1,530 +1,202 @@
-/tmp/xbrl/index
-Extracting /tmp/xbrl/index/1993/QTR1/xbrl.gz complete.
-Description:           XBRL Index of EDGAR Dissemination Feed
-Last Data Received:    March 31, 1993
-Comments:              webmaster@sec.gov
-Anonymous FTP:         ftp://ftp.sec.gov/edgar/
- 
- 
- 
- 
-CIK|Company Name|Form Type|Date Filed|Filename
---------------------------------------------------------------------------------
-Extracting /tmp/xbrl/index/1993/QTR2/xbrl.gz complete.
-Description:           XBRL Index of EDGAR Dissemination Feed
-Last Data Received:    June 30, 1993
-Comments:              webmaster@sec.gov
-Anonymous FTP:         ftp://ftp.sec.gov/edgar/
- 
- 
- 
- 
-CIK|Company Name|Form Type|Date Filed|Filename
---------------------------------------------------------------------------------
-Extracting /tmp/xbrl/index/1993/QTR3/xbrl.gz complete.
-Description:           XBRL Index of EDGAR Dissemination Feed
-Last Data Received:    September 30, 1993
-Comments:              webmaster@sec.gov
-Anonymous FTP:         ftp://ftp.sec.gov/edgar/
- 
- 
- 
- 
-CIK|Company Name|Form Type|Date Filed|Filename
---------------------------------------------------------------------------------
-Extracting /tmp/xbrl/index/1993/QTR4/xbrl.gz complete.
-Description:           XBRL Index of EDGAR Dissemination Feed
-Last Data Received:    December 31, 1993
-Comments:              webmaster@sec.gov
-Anonymous FTP:         ftp://ftp.sec.gov/edgar/
- 
- 
- 
- 
-CIK|Company Name|Form Type|Date Filed|Filename
---------------------------------------------------------------------------------
-Extracting /tmp/xbrl/index/1994/QTR1/xbrl.gz complete.
-Description:           XBRL Index of EDGAR Dissemination Feed
-Last Data Received:    March 31, 1994
-Comments:              webmaster@sec.gov
-Anonymous FTP:         ftp://ftp.sec.gov/edgar/
- 
- 
- 
- 
-CIK|Company Name|Form Type|Date Filed|Filename
---------------------------------------------------------------------------------
-Extracting /tmp/xbrl/index/1994/QTR2/xbrl.gz complete.
-Description:           XBRL Index of EDGAR Dissemination Feed
-Last Data Received:    June 30, 1994
-Comments:              webmaster@sec.gov
-Anonymous FTP:         ftp://ftp.sec.gov/edgar/
- 
- 
- 
- 
-CIK|Company Name|Form Type|Date Filed|Filename
---------------------------------------------------------------------------------
-Extracting /tmp/xbrl/index/1994/QTR3/xbrl.gz complete.
-Description:           XBRL Index of EDGAR Dissemination Feed
-Last Data Received:    September 30, 1994
-Comments:              webmaster@sec.gov
-Anonymous FTP:         ftp://ftp.sec.gov/edgar/
- 
- 
- 
- 
-CIK|Company Name|Form Type|Date Filed|Filename
---------------------------------------------------------------------------------
-Extracting /tmp/xbrl/index/1994/QTR4/xbrl.gz complete.
-Description:           XBRL Index of EDGAR Dissemination Feed
-Last Data Received:    December 31, 1994
-Comments:              webmaster@sec.gov
-Anonymous FTP:         ftp://ftp.sec.gov/edgar/
- 
- 
- 
- 
-CIK|Company Name|Form Type|Date Filed|Filename
---------------------------------------------------------------------------------
-Extracting /tmp/xbrl/index/1995/QTR1/xbrl.gz complete.
-Description:           XBRL Index of EDGAR Dissemination Feed
-Last Data Received:    March 31, 1995
-Comments:              webmaster@sec.gov
-Anonymous FTP:         ftp://ftp.sec.gov/edgar/
- 
- 
- 
- 
-CIK|Company Name|Form Type|Date Filed|Filename
---------------------------------------------------------------------------------
-Extracting /tmp/xbrl/index/1995/QTR2/xbrl.gz complete.
-Description:           XBRL Index of EDGAR Dissemination Feed
-Last Data Received:    June 30, 1995
-Comments:              webmaster@sec.gov
-Anonymous FTP:         ftp://ftp.sec.gov/edgar/
- 
- 
- 
- 
-CIK|Company Name|Form Type|Date Filed|Filename
---------------------------------------------------------------------------------
-Extracting /tmp/xbrl/index/1995/QTR3/xbrl.gz complete.
-Description:           XBRL Index of EDGAR Dissemination Feed
-Last Data Received:    September 30, 1995
-Comments:              webmaster@sec.gov
-Anonymous FTP:         ftp://ftp.sec.gov/edgar/
- 
- 
- 
- 
-CIK|Company Name|Form Type|Date Filed|Filename
---------------------------------------------------------------------------------
-Extracting /tmp/xbrl/index/1995/QTR4/xbrl.gz complete.
-Description:           XBRL Index of EDGAR Dissemination Feed
-Last Data Received:    December 31, 1995
-Comments:              webmaster@sec.gov
-Anonymous FTP:         ftp://ftp.sec.gov/edgar/
- 
- 
- 
- 
-CIK|Company Name|Form Type|Date Filed|Filename
---------------------------------------------------------------------------------
-Extracting /tmp/xbrl/index/1996/QTR1/xbrl.gz complete.
-Description:           XBRL Index of EDGAR Dissemination Feed
-Last Data Received:    March 31, 1996
-Comments:              webmaster@sec.gov
-Anonymous FTP:         ftp://ftp.sec.gov/edgar/
- 
- 
- 
- 
-CIK|Company Name|Form Type|Date Filed|Filename
---------------------------------------------------------------------------------
-Extracting /tmp/xbrl/index/1996/QTR2/xbrl.gz complete.
-Description:           XBRL Index of EDGAR Dissemination Feed
-Last Data Received:    June 30, 1996
-Comments:              webmaster@sec.gov
-Anonymous FTP:         ftp://ftp.sec.gov/edgar/
- 
- 
- 
- 
-CIK|Company Name|Form Type|Date Filed|Filename
---------------------------------------------------------------------------------
-Extracting /tmp/xbrl/index/1996/QTR3/xbrl.gz complete.
-Description:           XBRL Index of EDGAR Dissemination Feed
-Last Data Received:    September 30, 1996
-Comments:              webmaster@sec.gov
-Anonymous FTP:         ftp://ftp.sec.gov/edgar/
- 
- 
- 
- 
-CIK|Company Name|Form Type|Date Filed|Filename
---------------------------------------------------------------------------------
-Extracting /tmp/xbrl/index/1996/QTR4/xbrl.gz complete.
-Description:           XBRL Index of EDGAR Dissemination Feed
-Last Data Received:    December 31, 1996
-Comments:              webmaster@sec.gov
-Anonymous FTP:         ftp://ftp.sec.gov/edgar/
- 
- 
- 
- 
-CIK|Company Name|Form Type|Date Filed|Filename
---------------------------------------------------------------------------------
-Extracting /tmp/xbrl/index/1997/QTR1/xbrl.gz complete.
-Description:           XBRL Index of EDGAR Dissemination Feed
-Last Data Received:    March 31, 1997
-Comments:              webmaster@sec.gov
-Anonymous FTP:         ftp://ftp.sec.gov/edgar/
- 
- 
- 
- 
-CIK|Company Name|Form Type|Date Filed|Filename
---------------------------------------------------------------------------------
-Extracting /tmp/xbrl/index/1997/QTR2/xbrl.gz complete.
-Description:           XBRL Index of EDGAR Dissemination Feed
-Last Data Received:    June 30, 1997
-Comments:              webmaster@sec.gov
-Anonymous FTP:         ftp://ftp.sec.gov/edgar/
- 
- 
- 
- 
-CIK|Company Name|Form Type|Date Filed|Filename
---------------------------------------------------------------------------------
-Extracting /tmp/xbrl/index/1997/QTR3/xbrl.gz complete.
-Description:           XBRL Index of EDGAR Dissemination Feed
-Last Data Received:    September 30, 1997
-Comments:              webmaster@sec.gov
-Anonymous FTP:         ftp://ftp.sec.gov/edgar/
- 
- 
- 
- 
-CIK|Company Name|Form Type|Date Filed|Filename
---------------------------------------------------------------------------------
-Extracting /tmp/xbrl/index/1997/QTR4/xbrl.gz complete.
-Description:           XBRL Index of EDGAR Dissemination Feed
-Last Data Received:    December 31, 1997
-Comments:              webmaster@sec.gov
-Anonymous FTP:         ftp://ftp.sec.gov/edgar/
- 
- 
- 
- 
-CIK|Company Name|Form Type|Date Filed|Filename
---------------------------------------------------------------------------------
-Extracting /tmp/xbrl/index/1998/QTR1/xbrl.gz complete.
-Description:           XBRL Index of EDGAR Dissemination Feed
-Last Data Received:    March 31, 1998
-Comments:              webmaster@sec.gov
-Anonymous FTP:         ftp://ftp.sec.gov/edgar/
- 
- 
- 
- 
-CIK|Company Name|Form Type|Date Filed|Filename
---------------------------------------------------------------------------------
-Extracting /tmp/xbrl/index/1998/QTR2/xbrl.gz complete.
-Description:           XBRL Index of EDGAR Dissemination Feed
-Last Data Received:    June 30, 1998
-Comments:              webmaster@sec.gov
-Anonymous FTP:         ftp://ftp.sec.gov/edgar/
- 
- 
- 
- 
-CIK|Company Name|Form Type|Date Filed|Filename
---------------------------------------------------------------------------------
-Extracting /tmp/xbrl/index/1998/QTR3/xbrl.gz complete.
-Description:           XBRL Index of EDGAR Dissemination Feed
-Last Data Received:    September 30, 1998
-Comments:              webmaster@sec.gov
-Anonymous FTP:         ftp://ftp.sec.gov/edgar/
- 
- 
- 
- 
-CIK|Company Name|Form Type|Date Filed|Filename
---------------------------------------------------------------------------------
-Extracting /tmp/xbrl/index/1998/QTR4/xbrl.gz complete.
-Description:           XBRL Index of EDGAR Dissemination Feed
-Last Data Received:    December 31, 1998
-Comments:              webmaster@sec.gov
-Anonymous FTP:         ftp://ftp.sec.gov/edgar/
- 
- 
- 
- 
-CIK|Company Name|Form Type|Date Filed|Filename
---------------------------------------------------------------------------------
-Extracting /tmp/xbrl/index/1999/QTR1/xbrl.gz complete.
-Description:           XBRL Index of EDGAR Dissemination Feed
-Last Data Received:    March 31, 1999
-Comments:              webmaster@sec.gov
-Anonymous FTP:         ftp://ftp.sec.gov/edgar/
- 
- 
- 
- 
-CIK|Company Name|Form Type|Date Filed|Filename
---------------------------------------------------------------------------------
-Extracting /tmp/xbrl/index/1999/QTR2/xbrl.gz complete.
-Description:           XBRL Index of EDGAR Dissemination Feed
-Last Data Received:    June 30, 1999
-Comments:              webmaster@sec.gov
-Anonymous FTP:         ftp://ftp.sec.gov/edgar/
- 
- 
- 
- 
-CIK|Company Name|Form Type|Date Filed|Filename
---------------------------------------------------------------------------------
-Extracting /tmp/xbrl/index/1999/QTR3/xbrl.gz complete.
-Description:           XBRL Index of EDGAR Dissemination Feed
-Last Data Received:    September 30, 1999
-Comments:              webmaster@sec.gov
-Anonymous FTP:         ftp://ftp.sec.gov/edgar/
- 
- 
- 
- 
-CIK|Company Name|Form Type|Date Filed|Filename
---------------------------------------------------------------------------------
-Extracting /tmp/xbrl/index/1999/QTR4/xbrl.gz complete.
-Description:           XBRL Index of EDGAR Dissemination Feed
-Last Data Received:    December 31, 1999
-Comments:              webmaster@sec.gov
-Anonymous FTP:         ftp://ftp.sec.gov/edgar/
- 
- 
- 
- 
-CIK|Company Name|Form Type|Date Filed|Filename
---------------------------------------------------------------------------------
-Extracting /tmp/xbrl/index/2000/QTR1/xbrl.gz complete.
-Description:           XBRL Index of EDGAR Dissemination Feed
-Last Data Received:    March 31, 2000
-Comments:              webmaster@sec.gov
-Anonymous FTP:         ftp://ftp.sec.gov/edgar/
- 
- 
- 
- 
-CIK|Company Name|Form Type|Date Filed|Filename
---------------------------------------------------------------------------------
-Extracting /tmp/xbrl/index/2000/QTR2/xbrl.gz complete.
-Description:           XBRL Index of EDGAR Dissemination Feed
-Last Data Received:    June 30, 2000
-Comments:              webmaster@sec.gov
-Anonymous FTP:         ftp://ftp.sec.gov/edgar/
- 
- 
- 
- 
-CIK|Company Name|Form Type|Date Filed|Filename
---------------------------------------------------------------------------------
-Extracting /tmp/xbrl/index/2000/QTR3/xbrl.gz complete.
-Description:           XBRL Index of EDGAR Dissemination Feed
-Last Data Received:    September 30, 2000
-Comments:              webmaster@sec.gov
-Anonymous FTP:         ftp://ftp.sec.gov/edgar/
- 
- 
- 
- 
-CIK|Company Name|Form Type|Date Filed|Filename
---------------------------------------------------------------------------------
-Extracting /tmp/xbrl/index/2000/QTR4/xbrl.gz complete.
-Description:           XBRL Index of EDGAR Dissemination Feed
-Last Data Received:    December 31, 2000
-Comments:              webmaster@sec.gov
-Anonymous FTP:         ftp://ftp.sec.gov/edgar/
- 
- 
- 
- 
-CIK|Company Name|Form Type|Date Filed|Filename
---------------------------------------------------------------------------------
-Extracting /tmp/xbrl/index/2001/QTR1/xbrl.gz complete.
-Description:           XBRL Index of EDGAR Dissemination Feed
-Last Data Received:    March 31, 2001
-Comments:              webmaster@sec.gov
-Anonymous FTP:         ftp://ftp.sec.gov/edgar/
- 
- 
- 
- 
-CIK|Company Name|Form Type|Date Filed|Filename
---------------------------------------------------------------------------------
-Extracting /tmp/xbrl/index/2001/QTR2/xbrl.gz complete.
-Description:           XBRL Index of EDGAR Dissemination Feed
-Last Data Received:    June 30, 2001
-Comments:              webmaster@sec.gov
-Anonymous FTP:         ftp://ftp.sec.gov/edgar/
- 
- 
- 
- 
-CIK|Company Name|Form Type|Date Filed|Filename
---------------------------------------------------------------------------------
-Extracting /tmp/xbrl/index/2001/QTR3/xbrl.gz complete.
-Description:           XBRL Index of EDGAR Dissemination Feed
-Last Data Received:    September 30, 2001
-Comments:              webmaster@sec.gov
-Anonymous FTP:         ftp://ftp.sec.gov/edgar/
- 
- 
- 
- 
-CIK|Company Name|Form Type|Date Filed|Filename
---------------------------------------------------------------------------------
-Extracting /tmp/xbrl/index/2001/QTR4/xbrl.gz complete.
-Description:           XBRL Index of EDGAR Dissemination Feed
-Last Data Received:    December 31, 2001
-Comments:              webmaster@sec.gov
-Anonymous FTP:         ftp://ftp.sec.gov/edgar/
- 
- 
- 
- 
-CIK|Company Name|Form Type|Date Filed|Filename
---------------------------------------------------------------------------------
-Extracting /tmp/xbrl/index/2002/QTR1/xbrl.gz complete.
-Description:           XBRL Index of EDGAR Dissemination Feed
-Last Data Received:    March 31, 2002
-Comments:              webmaster@sec.gov
-Anonymous FTP:         ftp://ftp.sec.gov/edgar/
- 
- 
- 
- 
-CIK|Company Name|Form Type|Date Filed|Filename
---------------------------------------------------------------------------------
-Extracting /tmp/xbrl/index/2002/QTR2/xbrl.gz complete.
-Description:           XBRL Index of EDGAR Dissemination Feed
-Last Data Received:    June 30, 2002
-Comments:              webmaster@sec.gov
-Anonymous FTP:         ftp://ftp.sec.gov/edgar/
- 
- 
- 
- 
-CIK|Company Name|Form Type|Date Filed|Filename
---------------------------------------------------------------------------------
-Extracting /tmp/xbrl/index/2002/QTR3/xbrl.gz complete.
-Description:           XBRL Index of EDGAR Dissemination Feed
-Last Data Received:    September 30, 2002
-Comments:              webmaster@sec.gov
-Anonymous FTP:         ftp://ftp.sec.gov/edgar/
- 
- 
- 
- 
-CIK|Company Name|Form Type|Date Filed|Filename
---------------------------------------------------------------------------------
-Extracting /tmp/xbrl/index/2002/QTR4/xbrl.gz complete.
-Description:           XBRL Index of EDGAR Dissemination Feed
-Last Data Received:    December 31, 2002
-Comments:              webmaster@sec.gov
-Anonymous FTP:         ftp://ftp.sec.gov/edgar/
- 
- 
- 
- 
-CIK|Company Name|Form Type|Date Filed|Filename
---------------------------------------------------------------------------------
-Extracting /tmp/xbrl/index/2003/QTR1/xbrl.gz complete.
-Description:           XBRL Index of EDGAR Dissemination Feed
-Last Data Received:    March 31, 2003
-Comments:              webmaster@sec.gov
-Anonymous FTP:         ftp://ftp.sec.gov/edgar/
- 
- 
- 
- 
-CIK|Company Name|Form Type|Date Filed|Filename
---------------------------------------------------------------------------------
-Extracting /tmp/xbrl/index/2003/QTR2/xbrl.gz complete.
-Description:           XBRL Index of EDGAR Dissemination Feed
-Last Data Received:    June 30, 2003
-Comments:              webmaster@sec.gov
-Anonymous FTP:         ftp://ftp.sec.gov/edgar/
- 
- 
- 
- 
-CIK|Company Name|Form Type|Date Filed|Filename
---------------------------------------------------------------------------------
-Extracting /tmp/xbrl/index/2003/QTR3/xbrl.gz complete.
-Description:           XBRL Index of EDGAR Dissemination Feed
-Last Data Received:    September 30, 2003
-Comments:              webmaster@sec.gov
-Anonymous FTP:         ftp://ftp.sec.gov/edgar/
- 
- 
- 
- 
-CIK|Company Name|Form Type|Date Filed|Filename
---------------------------------------------------------------------------------
-Extracting /tmp/xbrl/index/2003/QTR4/xbrl.gz complete.
-Description:           XBRL Index of EDGAR Dissemination Feed
-Last Data Received:    December 31, 2003
-Comments:              webmaster@sec.gov
-Anonymous FTP:         ftp://ftp.sec.gov/edgar/
- 
- 
- 
- 
-CIK|Company Name|Form Type|Date Filed|Filename
---------------------------------------------------------------------------------
-Extracting /tmp/xbrl/index/2004/QTR1/xbrl.gz complete.
-Description:           XBRL Index of EDGAR Dissemination Feed
-Last Data Received:    March 31, 2004
-Comments:              webmaster@sec.gov
-Anonymous FTP:         ftp://ftp.sec.gov/edgar/
- 
- 
- 
- 
-CIK|Company Name|Form Type|Date Filed|Filename
---------------------------------------------------------------------------------
-Extracting /tmp/xbrl/index/2004/QTR2/xbrl.gz complete.
-Description:           XBRL Index of EDGAR Dissemination Feed
-Last Data Received:    June 30, 2004
-Comments:              webmaster@sec.gov
-Anonymous FTP:         ftp://ftp.sec.gov/edgar/
- 
- 
- 
- 
-CIK|Company Name|Form Type|Date Filed|Filename
---------------------------------------------------------------------------------
-Extracting /tmp/xbrl/index/2004/QTR3/xbrl.gz complete.
-Description:           XBRL Index of EDGAR Dissemination Feed
-Last Data Received:    September 30, 2004
-Comments:              webmaster@sec.gov
-Anonymous FTP:         ftp://ftp.sec.gov/edgar/
- 
- 
- 
- 
-CIK|Company Name|Form Type|Date Filed|Filename
---------------------------------------------------------------------------------
-Extracting /tmp/xbrl/index/2004/QTR4/xbrl.gz complete.
-Description:           XBRL Index of EDGAR Dissemination Feed
-Last Data Received:    December 31, 2004
-Comments:              webmaster@sec.gov
-Anonymous FTP:         ftp://ftp.sec.gov/edgar/
- 
- 
- 
- 
-CIK|Company Name|Form Type|Date Filed|Filename
---------------------------------------------------------------------------------
-1107194|CENTILLIUM COMMUNICATIONS INC|SC TO-I/A|2004-12-13|edgar/data/1107194/0000891618-04-001377.txt
+Attaching to xbrlfetcher_app_1
+[36mapp_1  |[0m [INFO] Scanning for projects...
+[36mapp_1  |[0m [INFO] 
+[36mapp_1  |[0m [INFO] ----------------< com.gohubert.xbrlfetcher:xbrlfetcher >----------------
+[36mapp_1  |[0m [INFO] Building xbrlfetcher 1.0-SNAPSHOT
+[36mapp_1  |[0m [INFO] --------------------------------[ jar ]---------------------------------
+[36mapp_1  |[0m [INFO] 
+[36mapp_1  |[0m [INFO] --- maven-clean-plugin:2.5:clean (default-clean) @ xbrlfetcher ---
+[36mapp_1  |[0m [INFO] Deleting /app/target
+[36mapp_1  |[0m [INFO] ------------------------------------------------------------------------
+[36mapp_1  |[0m [INFO] BUILD SUCCESS
+[36mapp_1  |[0m [INFO] ------------------------------------------------------------------------
+[36mapp_1  |[0m [INFO] Total time:  0.339 s
+[36mapp_1  |[0m [INFO] Finished at: 2020-01-06T07:42:36Z
+[36mapp_1  |[0m [INFO] ------------------------------------------------------------------------
+[36mapp_1  |[0m [INFO] Scanning for projects...
+[36mapp_1  |[0m [INFO] 
+[36mapp_1  |[0m [INFO] ----------------< com.gohubert.xbrlfetcher:xbrlfetcher >----------------
+[36mapp_1  |[0m [INFO] Building xbrlfetcher 1.0-SNAPSHOT
+[36mapp_1  |[0m [INFO] --------------------------------[ jar ]---------------------------------
+[36mapp_1  |[0m [INFO] 
+[36mapp_1  |[0m [INFO] --- maven-resources-plugin:2.6:resources (default-resources) @ xbrlfetcher ---
+[36mapp_1  |[0m [WARNING] Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+[36mapp_1  |[0m [INFO] skip non existing resourceDirectory /app/src/main/resources
+[36mapp_1  |[0m [INFO] 
+[36mapp_1  |[0m [INFO] --- maven-compiler-plugin:3.1:compile (default-compile) @ xbrlfetcher ---
+[36mapp_1  |[0m [INFO] Changes detected - recompiling the module!
+[36mapp_1  |[0m [WARNING] File encoding has not been set, using platform encoding UTF-8, i.e. build is platform dependent!
+[36mapp_1  |[0m [INFO] Compiling 6 source files to /app/target/classes
+[36mapp_1  |[0m [INFO] 
+[36mapp_1  |[0m [INFO] --- maven-resources-plugin:2.6:testResources (default-testResources) @ xbrlfetcher ---
+[36mapp_1  |[0m [WARNING] Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+[36mapp_1  |[0m [INFO] skip non existing resourceDirectory /app/src/test/resources
+[36mapp_1  |[0m [INFO] 
+[36mapp_1  |[0m [INFO] --- maven-compiler-plugin:3.1:testCompile (default-testCompile) @ xbrlfetcher ---
+[36mapp_1  |[0m [INFO] Changes detected - recompiling the module!
+[36mapp_1  |[0m [WARNING] File encoding has not been set, using platform encoding UTF-8, i.e. build is platform dependent!
+[36mapp_1  |[0m [INFO] Compiling 1 source file to /app/target/test-classes
+[36mapp_1  |[0m [INFO] 
+[36mapp_1  |[0m [INFO] --- maven-surefire-plugin:2.12.4:test (default-test) @ xbrlfetcher ---
+[36mapp_1  |[0m [INFO] Surefire report directory: /app/target/surefire-reports
+[36mapp_1  |[0m 
+[36mapp_1  |[0m -------------------------------------------------------
+[36mapp_1  |[0m  T E S T S
+[36mapp_1  |[0m -------------------------------------------------------
+[36mapp_1  |[0m Running com.gohubert.xbrlfetcher.AppTest
+[36mapp_1  |[0m Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 0.006 sec
+[36mapp_1  |[0m 
+[36mapp_1  |[0m Results :
+[36mapp_1  |[0m 
+[36mapp_1  |[0m Tests run: 1, Failures: 0, Errors: 0, Skipped: 0
+[36mapp_1  |[0m 
+[36mapp_1  |[0m [INFO] 
+[36mapp_1  |[0m [INFO] --- maven-jar-plugin:3.2.0:jar (default-jar) @ xbrlfetcher ---
+[36mapp_1  |[0m [INFO] Building jar: /app/target/xbrlfetcher-1.0-SNAPSHOT.jar
+[36mapp_1  |[0m [INFO] ------------------------------------------------------------------------
+[36mapp_1  |[0m [INFO] BUILD SUCCESS
+[36mapp_1  |[0m [INFO] ------------------------------------------------------------------------
+[36mapp_1  |[0m [INFO] Total time:  2.573 s
+[36mapp_1  |[0m [INFO] Finished at: 2020-01-06T07:42:40Z
+[36mapp_1  |[0m [INFO] ------------------------------------------------------------------------
+[36mapp_1  |[0m > File exist. Skipping https://www.sec.gov/Archives/edgar/full-index/1993/QTR1/xbrl.gz
+[36mapp_1  |[0m > File exist. Skipping https://www.sec.gov/Archives/edgar/full-index/1993/QTR2/xbrl.gz
+[36mapp_1  |[0m > File exist. Skipping https://www.sec.gov/Archives/edgar/full-index/1993/QTR3/xbrl.gz
+[36mapp_1  |[0m > File exist. Skipping https://www.sec.gov/Archives/edgar/full-index/1993/QTR4/xbrl.gz
+[36mapp_1  |[0m > File exist. Skipping https://www.sec.gov/Archives/edgar/full-index/1994/QTR1/xbrl.gz
+[36mapp_1  |[0m > File exist. Skipping https://www.sec.gov/Archives/edgar/full-index/1994/QTR2/xbrl.gz
+[36mapp_1  |[0m > File exist. Skipping https://www.sec.gov/Archives/edgar/full-index/1994/QTR3/xbrl.gz
+[36mapp_1  |[0m > File downloaded https://www.sec.gov/Archives/edgar/full-index/1994/QTR4/xbrl.gz
+[36mapp_1  |[0m > File downloaded https://www.sec.gov/Archives/edgar/full-index/1995/QTR1/xbrl.gz
+[36mapp_1  |[0m > File downloaded https://www.sec.gov/Archives/edgar/full-index/1995/QTR2/xbrl.gz
+[36mapp_1  |[0m > File downloaded https://www.sec.gov/Archives/edgar/full-index/1995/QTR3/xbrl.gz
+[36mapp_1  |[0m > File downloaded https://www.sec.gov/Archives/edgar/full-index/1995/QTR4/xbrl.gz
+[36mapp_1  |[0m > File downloaded https://www.sec.gov/Archives/edgar/full-index/1996/QTR1/xbrl.gz
+[36mapp_1  |[0m > File downloaded https://www.sec.gov/Archives/edgar/full-index/1996/QTR2/xbrl.gz
+[36mapp_1  |[0m > File downloaded https://www.sec.gov/Archives/edgar/full-index/1996/QTR3/xbrl.gz
+[36mapp_1  |[0m > File downloaded https://www.sec.gov/Archives/edgar/full-index/1996/QTR4/xbrl.gz
+[36mapp_1  |[0m > File downloaded https://www.sec.gov/Archives/edgar/full-index/1997/QTR1/xbrl.gz
+[36mapp_1  |[0m > File downloaded https://www.sec.gov/Archives/edgar/full-index/1997/QTR2/xbrl.gz
+[36mapp_1  |[0m > File downloaded https://www.sec.gov/Archives/edgar/full-index/1997/QTR3/xbrl.gz
+[36mapp_1  |[0m > File downloaded https://www.sec.gov/Archives/edgar/full-index/1997/QTR4/xbrl.gz
+[36mapp_1  |[0m > File downloaded https://www.sec.gov/Archives/edgar/full-index/1998/QTR1/xbrl.gz
+[36mapp_1  |[0m > File downloaded https://www.sec.gov/Archives/edgar/full-index/1998/QTR2/xbrl.gz
+[36mapp_1  |[0m > File downloaded https://www.sec.gov/Archives/edgar/full-index/1998/QTR3/xbrl.gz
+[36mapp_1  |[0m > File downloaded https://www.sec.gov/Archives/edgar/full-index/1998/QTR4/xbrl.gz
+[36mapp_1  |[0m > File downloaded https://www.sec.gov/Archives/edgar/full-index/1999/QTR1/xbrl.gz
+[36mapp_1  |[0m > File downloaded https://www.sec.gov/Archives/edgar/full-index/1999/QTR2/xbrl.gz
+[36mapp_1  |[0m > File downloaded https://www.sec.gov/Archives/edgar/full-index/1999/QTR3/xbrl.gz
+[36mapp_1  |[0m > File downloaded https://www.sec.gov/Archives/edgar/full-index/1999/QTR4/xbrl.gz
+[36mapp_1  |[0m > File downloaded https://www.sec.gov/Archives/edgar/full-index/2000/QTR1/xbrl.gz
+[36mapp_1  |[0m > File downloaded https://www.sec.gov/Archives/edgar/full-index/2000/QTR2/xbrl.gz
+[36mapp_1  |[0m > File downloaded https://www.sec.gov/Archives/edgar/full-index/2000/QTR3/xbrl.gz
+[36mapp_1  |[0m > File downloaded https://www.sec.gov/Archives/edgar/full-index/2000/QTR4/xbrl.gz
+[36mapp_1  |[0m > File downloaded https://www.sec.gov/Archives/edgar/full-index/2001/QTR1/xbrl.gz
+[36mapp_1  |[0m > File downloaded https://www.sec.gov/Archives/edgar/full-index/2001/QTR2/xbrl.gz
+[36mapp_1  |[0m > File downloaded https://www.sec.gov/Archives/edgar/full-index/2001/QTR3/xbrl.gz
+[36mapp_1  |[0m > File downloaded https://www.sec.gov/Archives/edgar/full-index/2001/QTR4/xbrl.gz
+[36mapp_1  |[0m > File downloaded https://www.sec.gov/Archives/edgar/full-index/2002/QTR1/xbrl.gz
+[36mapp_1  |[0m > File downloaded https://www.sec.gov/Archives/edgar/full-index/2002/QTR2/xbrl.gz
+[36mapp_1  |[0m > File downloaded https://www.sec.gov/Archives/edgar/full-index/2002/QTR3/xbrl.gz
+[36mapp_1  |[0m > File downloaded https://www.sec.gov/Archives/edgar/full-index/2002/QTR4/xbrl.gz
+[36mapp_1  |[0m > File downloaded https://www.sec.gov/Archives/edgar/full-index/2003/QTR1/xbrl.gz
+[36mapp_1  |[0m > File downloaded https://www.sec.gov/Archives/edgar/full-index/2003/QTR2/xbrl.gz
+[36mapp_1  |[0m > File downloaded https://www.sec.gov/Archives/edgar/full-index/2003/QTR3/xbrl.gz
+[36mapp_1  |[0m > File downloaded https://www.sec.gov/Archives/edgar/full-index/2003/QTR4/xbrl.gz
+[36mapp_1  |[0m > File downloaded https://www.sec.gov/Archives/edgar/full-index/2004/QTR1/xbrl.gz
+[36mapp_1  |[0m > File downloaded https://www.sec.gov/Archives/edgar/full-index/2004/QTR2/xbrl.gz
+[36mapp_1  |[0m > File downloaded https://www.sec.gov/Archives/edgar/full-index/2004/QTR3/xbrl.gz
+[36mapp_1  |[0m > File downloaded https://www.sec.gov/Archives/edgar/full-index/2004/QTR4/xbrl.gz
+[36mapp_1  |[0m > File downloaded https://www.sec.gov/Archives/edgar/full-index/2005/QTR1/xbrl.gz
+[36mapp_1  |[0m > File downloaded https://www.sec.gov/Archives/edgar/full-index/2005/QTR2/xbrl.gz
+[36mapp_1  |[0m > File downloaded https://www.sec.gov/Archives/edgar/full-index/2005/QTR3/xbrl.gz
+[36mapp_1  |[0m > File downloaded https://www.sec.gov/Archives/edgar/full-index/2005/QTR4/xbrl.gz
+[36mapp_1  |[0m > File downloaded https://www.sec.gov/Archives/edgar/full-index/2006/QTR1/xbrl.gz
+[36mapp_1  |[0m > File downloaded https://www.sec.gov/Archives/edgar/full-index/2006/QTR2/xbrl.gz
+[36mapp_1  |[0m > File downloaded https://www.sec.gov/Archives/edgar/full-index/2006/QTR3/xbrl.gz
+[36mapp_1  |[0m > File downloaded https://www.sec.gov/Archives/edgar/full-index/2006/QTR4/xbrl.gz
+[36mapp_1  |[0m > File downloaded https://www.sec.gov/Archives/edgar/full-index/2007/QTR1/xbrl.gz
+[36mapp_1  |[0m > File downloaded https://www.sec.gov/Archives/edgar/full-index/2007/QTR2/xbrl.gz
+[36mapp_1  |[0m > File downloaded https://www.sec.gov/Archives/edgar/full-index/2007/QTR3/xbrl.gz
+[36mapp_1  |[0m > File downloaded https://www.sec.gov/Archives/edgar/full-index/2007/QTR4/xbrl.gz
+[36mapp_1  |[0m > File downloaded https://www.sec.gov/Archives/edgar/full-index/2008/QTR1/xbrl.gz
+[36mapp_1  |[0m > File downloaded https://www.sec.gov/Archives/edgar/full-index/2008/QTR2/xbrl.gz
+[36mapp_1  |[0m > File downloaded https://www.sec.gov/Archives/edgar/full-index/2008/QTR3/xbrl.gz
+[36mapp_1  |[0m > File downloaded https://www.sec.gov/Archives/edgar/full-index/2008/QTR4/xbrl.gz
+[36mapp_1  |[0m > File downloaded https://www.sec.gov/Archives/edgar/full-index/2009/QTR1/xbrl.gz
+[36mapp_1  |[0m > File downloaded https://www.sec.gov/Archives/edgar/full-index/2009/QTR2/xbrl.gz
+[36mapp_1  |[0m > File downloaded https://www.sec.gov/Archives/edgar/full-index/2009/QTR3/xbrl.gz
+[36mapp_1  |[0m > File downloaded https://www.sec.gov/Archives/edgar/full-index/2009/QTR4/xbrl.gz
+[36mapp_1  |[0m > File downloaded https://www.sec.gov/Archives/edgar/full-index/2010/QTR1/xbrl.gz
+[36mapp_1  |[0m > File downloaded https://www.sec.gov/Archives/edgar/full-index/2010/QTR2/xbrl.gz
+[36mapp_1  |[0m > File downloaded https://www.sec.gov/Archives/edgar/full-index/2010/QTR3/xbrl.gz
+[36mapp_1  |[0m > File downloaded https://www.sec.gov/Archives/edgar/full-index/2010/QTR4/xbrl.gz
+[36mapp_1  |[0m > File downloaded https://www.sec.gov/Archives/edgar/full-index/2011/QTR1/xbrl.gz
+[36mapp_1  |[0m > File downloaded https://www.sec.gov/Archives/edgar/full-index/2011/QTR2/xbrl.gz
+[36mapp_1  |[0m > File downloaded https://www.sec.gov/Archives/edgar/full-index/2011/QTR3/xbrl.gz
+[36mapp_1  |[0m > File downloaded https://www.sec.gov/Archives/edgar/full-index/2011/QTR4/xbrl.gz
+[36mapp_1  |[0m > File downloaded https://www.sec.gov/Archives/edgar/full-index/2012/QTR1/xbrl.gz
+[36mapp_1  |[0m > File downloaded https://www.sec.gov/Archives/edgar/full-index/2012/QTR2/xbrl.gz
+[36mapp_1  |[0m > File downloaded https://www.sec.gov/Archives/edgar/full-index/2012/QTR3/xbrl.gz
+[36mapp_1  |[0m > File downloaded https://www.sec.gov/Archives/edgar/full-index/2012/QTR4/xbrl.gz
+[36mapp_1  |[0m > File downloaded https://www.sec.gov/Archives/edgar/full-index/2013/QTR1/xbrl.gz
+[36mapp_1  |[0m > File downloaded https://www.sec.gov/Archives/edgar/full-index/2013/QTR2/xbrl.gz
+[36mapp_1  |[0m > File downloaded https://www.sec.gov/Archives/edgar/full-index/2013/QTR3/xbrl.gz
+[36mapp_1  |[0m > File downloaded https://www.sec.gov/Archives/edgar/full-index/2013/QTR4/xbrl.gz
+[36mapp_1  |[0m > File downloaded https://www.sec.gov/Archives/edgar/full-index/2014/QTR1/xbrl.gz
+[36mapp_1  |[0m > File downloaded https://www.sec.gov/Archives/edgar/full-index/2014/QTR2/xbrl.gz
+[36mapp_1  |[0m > File downloaded https://www.sec.gov/Archives/edgar/full-index/2014/QTR3/xbrl.gz
+[36mapp_1  |[0m > File downloaded https://www.sec.gov/Archives/edgar/full-index/2014/QTR4/xbrl.gz
+[36mapp_1  |[0m > File downloaded https://www.sec.gov/Archives/edgar/full-index/2015/QTR1/xbrl.gz
+[36mapp_1  |[0m > File downloaded https://www.sec.gov/Archives/edgar/full-index/2015/QTR2/xbrl.gz
+[36mapp_1  |[0m > File downloaded https://www.sec.gov/Archives/edgar/full-index/2015/QTR3/xbrl.gz
+[36mapp_1  |[0m > File downloaded https://www.sec.gov/Archives/edgar/full-index/2015/QTR4/xbrl.gz
+[36mapp_1  |[0m > File downloaded https://www.sec.gov/Archives/edgar/full-index/2016/QTR1/xbrl.gz
+[36mapp_1  |[0m > File downloaded https://www.sec.gov/Archives/edgar/full-index/2016/QTR2/xbrl.gz
+[36mapp_1  |[0m > File downloaded https://www.sec.gov/Archives/edgar/full-index/2016/QTR3/xbrl.gz
+[36mapp_1  |[0m > File downloaded https://www.sec.gov/Archives/edgar/full-index/2016/QTR4/xbrl.gz
+[36mapp_1  |[0m > File downloaded https://www.sec.gov/Archives/edgar/full-index/2017/QTR1/xbrl.gz
+[36mapp_1  |[0m > File downloaded https://www.sec.gov/Archives/edgar/full-index/2017/QTR2/xbrl.gz
+[36mapp_1  |[0m > File downloaded https://www.sec.gov/Archives/edgar/full-index/2017/QTR3/xbrl.gz
+[36mapp_1  |[0m > File downloaded https://www.sec.gov/Archives/edgar/full-index/2017/QTR4/xbrl.gz
+[36mapp_1  |[0m > File downloaded https://www.sec.gov/Archives/edgar/full-index/2018/QTR1/xbrl.gz
+[36mapp_1  |[0m > File downloaded https://www.sec.gov/Archives/edgar/full-index/2018/QTR2/xbrl.gz
+[36mapp_1  |[0m > File downloaded https://www.sec.gov/Archives/edgar/full-index/2018/QTR3/xbrl.gz
+[36mapp_1  |[0m > File downloaded https://www.sec.gov/Archives/edgar/full-index/2018/QTR4/xbrl.gz
+[36mapp_1  |[0m > File downloaded https://www.sec.gov/Archives/edgar/full-index/2019/QTR1/xbrl.gz
+[36mapp_1  |[0m > File downloaded https://www.sec.gov/Archives/edgar/full-index/2019/QTR2/xbrl.gz
+[36mapp_1  |[0m > File downloaded https://www.sec.gov/Archives/edgar/full-index/2019/QTR3/xbrl.gz
+[36mapp_1  |[0m > File downloaded https://www.sec.gov/Archives/edgar/full-index/2019/QTR4/xbrl.gz
+[36mapp_1  |[0m > File downloaded https://www.sec.gov/Archives/edgar/full-index/2020/QTR1/xbrl.gz
+[36mapp_1  |[0m java.io.IOException: Server returned HTTP response code: 403 for URL: https://www.sec.gov/Archives/edgar/full-index/2020/QTR2/xbrl.gz
+[36mapp_1  |[0m 	at java.base/sun.net.www.protocol.http.HttpURLConnection.getInputStream0(HttpURLConnection.java:1919)
+[36mapp_1  |[0m 	at java.base/sun.net.www.protocol.http.HttpURLConnection.getInputStream(HttpURLConnection.java:1515)
+[36mapp_1  |[0m 	at java.base/sun.net.www.protocol.https.HttpsURLConnectionImpl.getInputStream(HttpsURLConnectionImpl.java:250)> File downloaded https://www.sec.gov/Archives/edgar/full-index/2020/QTR2/xbrl.gz
+[36mapp_1  |[0m 
+[36mapp_1  |[0m 	at java.base/java.net.URL.openStream(URL.java:1139)
+[36mapp_1  |[0m 	at com.gohubert.xbrlfetcher.Fetch.get(Fetch.java:46)
+[36mapp_1  |[0m 	at com.gohubert.xbrlfetcher.Fetch.fetchXBRLIndexAll(Fetch.java:127)
+[36mapp_1  |[0m 	at com.gohubert.xbrlfetcher.Fetch.run(Fetch.java:146)
+[36mapp_1  |[0m 	at com.gohubert.xbrlfetcher.App.main(App.java:6)
+[36mapp_1  |[0m java.io.IOException: Server returned HTTP response code: 403 for URL: https://www.sec.gov/Archives/edgar/full-index/2020/QTR3/xbrl.gz
+[36mapp_1  |[0m 	at java.base/sun.net.www.protocol.http.HttpURLConnection.getInputStream0(HttpURLConnection.java:1919)
+[36mapp_1  |[0m 	at java.base/sun.net.www.protocol.http.HttpURLConnection.getInputStream(HttpURLConnection.java:1515)
+[36mapp_1  |[0m 	at java.base/sun.net.www.protocol.https.HttpsURLConnectionImpl.getInputStream(HttpsURLConnectionImpl.java:250)
+[36mapp_1  |[0m 	at java.base/java.net.URL.openStream(URL.java:1139)
+[36mapp_1  |[0m > File downloaded https://www.sec.gov/Archives/edgar/full-index/2020/QTR3/xbrl.gz
+[36mapp_1  |[0m 	at com.gohubert.xbrlfetcher.Fetch.get(Fetch.java:46)
+[36mapp_1  |[0m 	at com.gohubert.xbrlfetcher.Fetch.fetchXBRLIndexAll(Fetch.java:127)
+[36mapp_1  |[0m 	at com.gohubert.xbrlfetcher.Fetch.run(Fetch.java:146)
+[36mapp_1  |[0m 	at com.gohubert.xbrlfetcher.App.main(App.java:6)
+[36mapp_1  |[0m java.io.IOException: Server returned HTTP response code: 403 for URL: https://www.sec.gov/Archives/edgar/full-index/2020/QTR4/xbrl.gz
+[36mapp_1  |[0m 	at java.base/sun.net.www.protocol.http.HttpURLConnection.getInputStream0(HttpURLConnection.java:1919)
+[36mapp_1  |[0m 	at java.base/sun.net.www.protocol.http.HttpURLConnection.getInputStream(HttpURLConnection.java:1515)
+[36mapp_1  |[0m 	at java.base/sun.net.www.protocol.https.HttpsURLConnectionImpl.getInputStream(HttpsURLConnectionImpl.java:250)
+[36mapp_1  |[0m 	at java.base/java.net.URL.openStream(URL.java:1139)
+[36mapp_1  |[0m 	at com.gohubert.xbrlfetcher.Fetch.get(Fetch.java:46)
+[36mapp_1  |[0m 	at com.gohubert.xbrlfetcher.Fetch.fetchXBRLIndexAll(Fetch.java:127)
+[36mapp_1  |[0m 	at com.gohubert.xbrlfetcher.Fetch.run(Fetch.java:146)
+[36mapp_1  |[0m 	at com.gohubert.xbrlfetcher.App.main(App.java:6)
+[36mapp_1  |[0m > File downloaded https://www.sec.gov/Archives/edgar/full-index/2020/QTR4/xbrl.gz
+[36mxbrlfetcher_app_1 exited with code 0
+[0m

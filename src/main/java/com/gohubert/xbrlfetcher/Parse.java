@@ -7,7 +7,13 @@ import java.io.FileReader;
 import java.io.IOException;
 
 public class Parse {
-  // parse the sec index files in idx format.
+  /**
+   * Parses an index file and return the rows an array of IndexRow objects.
+   * See IndexRow to see what the rows look like.
+   * 
+   * @param path - Path of the idx file.
+   * @return - Array of IndexRow items.
+   */
   public static ArrayList<IndexRow> parseIndex(String path) {
     ArrayList<IndexRow> res = new ArrayList<>();
 
