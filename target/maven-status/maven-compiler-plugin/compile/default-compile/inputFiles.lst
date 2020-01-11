@@ -1,6 +1,6 @@
+/app/src/main/java/com/gohubert/xbrlfetcher/Env.java
 /app/src/main/java/com/gohubert/xbrlfetcher/Parse.java
 /app/src/main/java/com/gohubert/xbrlfetcher/IndexRow.java
-/app/src/main/java/com/gohubert/xbrlfetcher/Config.java
 /app/src/main/java/com/gohubert/xbrlfetcher/Debug.java
 /app/src/main/java/com/gohubert/xbrlfetcher/App.java
 /app/src/main/java/com/gohubert/xbrlfetcher/Zip.java

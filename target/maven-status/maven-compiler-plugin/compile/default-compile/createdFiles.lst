@@ -1,5 +1,5 @@
-com/gohubert/xbrlfetcher/Config.class
 com/gohubert/xbrlfetcher/App.class
+com/gohubert/xbrlfetcher/Env.class
 com/gohubert/xbrlfetcher/Parse.class
 com/gohubert/xbrlfetcher/IndexRow.class
 com/gohubert/xbrlfetcher/Debug.class
