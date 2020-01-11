@@ -5,6 +5,7 @@ import java.io.File;
 import java.io.FileNotFoundException;
 import java.io.FileReader;
 import java.io.IOException;
+import java.nio.file.Files;
 
 /**
  * Just some debug static methods to dry the code It was stuff that I was using.
@@ -35,6 +36,17 @@ public class Debug {
         System.out.println(line);
       }
       br.close();
+    } catch (IOException e) {
+      // TODO Auto-generated catch block
+      e.printStackTrace();
+    }
+  }
+
+  public static void ls(String dirName) {
+    try {
+      Files.list(new File(dirName).toPath()).limit(10).forEach(path -> {
+        System.out.println(path);
+      });
     } catch (IOException e) {
       // TODO Auto-generated catch block
       e.printStackTrace();

@@ -10,8 +10,8 @@ Attaching to xbrlfetcher_app_1
 [36mapp_1  |[0m [INFO] ------------------------------------------------------------------------
 [36mapp_1  |[0m [INFO] BUILD SUCCESS
 [36mapp_1  |[0m [INFO] ------------------------------------------------------------------------
-[36mapp_1  |[0m [INFO] Total time:  0.339 s
-[36mapp_1  |[0m [INFO] Finished at: 2020-01-06T07:42:36Z
+[36mapp_1  |[0m [INFO] Total time:  0.234 s
+[36mapp_1  |[0m [INFO] Finished at: 2020-01-11T01:59:37Z
 [36mapp_1  |[0m [INFO] ------------------------------------------------------------------------
 [36mapp_1  |[0m [INFO] Scanning for projects...
 [36mapp_1  |[0m [INFO] 
@@ -26,7 +26,7 @@ Attaching to xbrlfetcher_app_1
 [36mapp_1  |[0m [INFO] --- maven-compiler-plugin:3.1:compile (default-compile) @ xbrlfetcher ---
 [36mapp_1  |[0m [INFO] Changes detected - recompiling the module!
 [36mapp_1  |[0m [WARNING] File encoding has not been set, using platform encoding UTF-8, i.e. build is platform dependent!
-[36mapp_1  |[0m [INFO] Compiling 6 source files to /app/target/classes
+[36mapp_1  |[0m [INFO] Compiling 8 source files to /app/target/classes
 [36mapp_1  |[0m [INFO] 
 [36mapp_1  |[0m [INFO] --- maven-resources-plugin:2.6:testResources (default-testResources) @ xbrlfetcher ---
 [36mapp_1  |[0m [WARNING] Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
@@ -44,7 +44,7 @@ Attaching to xbrlfetcher_app_1
 [36mapp_1  |[0m  T E S T S
 [36mapp_1  |[0m -------------------------------------------------------
 [36mapp_1  |[0m Running com.gohubert.xbrlfetcher.AppTest
-[36mapp_1  |[0m Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 0.006 sec
+[36mapp_1  |[0m Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 0.042 sec
 [36mapp_1  |[0m 
 [36mapp_1  |[0m Results :
 [36mapp_1  |[0m 
@@ -56,9 +56,11 @@ Attaching to xbrlfetcher_app_1
 [36mapp_1  |[0m [INFO] ------------------------------------------------------------------------
 [36mapp_1  |[0m [INFO] BUILD SUCCESS
 [36mapp_1  |[0m [INFO] ------------------------------------------------------------------------
-[36mapp_1  |[0m [INFO] Total time:  2.573 s
-[36mapp_1  |[0m [INFO] Finished at: 2020-01-06T07:42:40Z
+[36mapp_1  |[0m [INFO] Total time:  2.083 s
+[36mapp_1  |[0m [INFO] Finished at: 2020-01-11T01:59:40Z
 [36mapp_1  |[0m [INFO] ------------------------------------------------------------------------
+[36mapp_1  |[0m >>>>>>>>>>>>>>>>>>>>>>>>>>
+[36mapp_1  |[0m User config found
 [36mapp_1  |[0m > File exist. Skipping https://www.sec.gov/Archives/edgar/full-index/1993/QTR1/xbrl.gz
 [36mapp_1  |[0m > File exist. Skipping https://www.sec.gov/Archives/edgar/full-index/1993/QTR2/xbrl.gz
 [36mapp_1  |[0m > File exist. Skipping https://www.sec.gov/Archives/edgar/full-index/1993/QTR3/xbrl.gz
@@ -66,137 +68,427 @@ Attaching to xbrlfetcher_app_1
 [36mapp_1  |[0m > File exist. Skipping https://www.sec.gov/Archives/edgar/full-index/1994/QTR1/xbrl.gz
 [36mapp_1  |[0m > File exist. Skipping https://www.sec.gov/Archives/edgar/full-index/1994/QTR2/xbrl.gz
 [36mapp_1  |[0m > File exist. Skipping https://www.sec.gov/Archives/edgar/full-index/1994/QTR3/xbrl.gz
-[36mapp_1  |[0m > File downloaded https://www.sec.gov/Archives/edgar/full-index/1994/QTR4/xbrl.gz
-[36mapp_1  |[0m > File downloaded https://www.sec.gov/Archives/edgar/full-index/1995/QTR1/xbrl.gz
-[36mapp_1  |[0m > File downloaded https://www.sec.gov/Archives/edgar/full-index/1995/QTR2/xbrl.gz
-[36mapp_1  |[0m > File downloaded https://www.sec.gov/Archives/edgar/full-index/1995/QTR3/xbrl.gz
-[36mapp_1  |[0m > File downloaded https://www.sec.gov/Archives/edgar/full-index/1995/QTR4/xbrl.gz
-[36mapp_1  |[0m > File downloaded https://www.sec.gov/Archives/edgar/full-index/1996/QTR1/xbrl.gz
-[36mapp_1  |[0m > File downloaded https://www.sec.gov/Archives/edgar/full-index/1996/QTR2/xbrl.gz
-[36mapp_1  |[0m > File downloaded https://www.sec.gov/Archives/edgar/full-index/1996/QTR3/xbrl.gz
-[36mapp_1  |[0m > File downloaded https://www.sec.gov/Archives/edgar/full-index/1996/QTR4/xbrl.gz
-[36mapp_1  |[0m > File downloaded https://www.sec.gov/Archives/edgar/full-index/1997/QTR1/xbrl.gz
-[36mapp_1  |[0m > File downloaded https://www.sec.gov/Archives/edgar/full-index/1997/QTR2/xbrl.gz
-[36mapp_1  |[0m > File downloaded https://www.sec.gov/Archives/edgar/full-index/1997/QTR3/xbrl.gz
-[36mapp_1  |[0m > File downloaded https://www.sec.gov/Archives/edgar/full-index/1997/QTR4/xbrl.gz
-[36mapp_1  |[0m > File downloaded https://www.sec.gov/Archives/edgar/full-index/1998/QTR1/xbrl.gz
-[36mapp_1  |[0m > File downloaded https://www.sec.gov/Archives/edgar/full-index/1998/QTR2/xbrl.gz
-[36mapp_1  |[0m > File downloaded https://www.sec.gov/Archives/edgar/full-index/1998/QTR3/xbrl.gz
-[36mapp_1  |[0m > File downloaded https://www.sec.gov/Archives/edgar/full-index/1998/QTR4/xbrl.gz
-[36mapp_1  |[0m > File downloaded https://www.sec.gov/Archives/edgar/full-index/1999/QTR1/xbrl.gz
-[36mapp_1  |[0m > File downloaded https://www.sec.gov/Archives/edgar/full-index/1999/QTR2/xbrl.gz
-[36mapp_1  |[0m > File downloaded https://www.sec.gov/Archives/edgar/full-index/1999/QTR3/xbrl.gz
-[36mapp_1  |[0m > File downloaded https://www.sec.gov/Archives/edgar/full-index/1999/QTR4/xbrl.gz
-[36mapp_1  |[0m > File downloaded https://www.sec.gov/Archives/edgar/full-index/2000/QTR1/xbrl.gz
-[36mapp_1  |[0m > File downloaded https://www.sec.gov/Archives/edgar/full-index/2000/QTR2/xbrl.gz
-[36mapp_1  |[0m > File downloaded https://www.sec.gov/Archives/edgar/full-index/2000/QTR3/xbrl.gz
-[36mapp_1  |[0m > File downloaded https://www.sec.gov/Archives/edgar/full-index/2000/QTR4/xbrl.gz
-[36mapp_1  |[0m > File downloaded https://www.sec.gov/Archives/edgar/full-index/2001/QTR1/xbrl.gz
-[36mapp_1  |[0m > File downloaded https://www.sec.gov/Archives/edgar/full-index/2001/QTR2/xbrl.gz
-[36mapp_1  |[0m > File downloaded https://www.sec.gov/Archives/edgar/full-index/2001/QTR3/xbrl.gz
-[36mapp_1  |[0m > File downloaded https://www.sec.gov/Archives/edgar/full-index/2001/QTR4/xbrl.gz
-[36mapp_1  |[0m > File downloaded https://www.sec.gov/Archives/edgar/full-index/2002/QTR1/xbrl.gz
-[36mapp_1  |[0m > File downloaded https://www.sec.gov/Archives/edgar/full-index/2002/QTR2/xbrl.gz
-[36mapp_1  |[0m > File downloaded https://www.sec.gov/Archives/edgar/full-index/2002/QTR3/xbrl.gz
-[36mapp_1  |[0m > File downloaded https://www.sec.gov/Archives/edgar/full-index/2002/QTR4/xbrl.gz
-[36mapp_1  |[0m > File downloaded https://www.sec.gov/Archives/edgar/full-index/2003/QTR1/xbrl.gz
-[36mapp_1  |[0m > File downloaded https://www.sec.gov/Archives/edgar/full-index/2003/QTR2/xbrl.gz
-[36mapp_1  |[0m > File downloaded https://www.sec.gov/Archives/edgar/full-index/2003/QTR3/xbrl.gz
-[36mapp_1  |[0m > File downloaded https://www.sec.gov/Archives/edgar/full-index/2003/QTR4/xbrl.gz
-[36mapp_1  |[0m > File downloaded https://www.sec.gov/Archives/edgar/full-index/2004/QTR1/xbrl.gz
-[36mapp_1  |[0m > File downloaded https://www.sec.gov/Archives/edgar/full-index/2004/QTR2/xbrl.gz
-[36mapp_1  |[0m > File downloaded https://www.sec.gov/Archives/edgar/full-index/2004/QTR3/xbrl.gz
-[36mapp_1  |[0m > File downloaded https://www.sec.gov/Archives/edgar/full-index/2004/QTR4/xbrl.gz
-[36mapp_1  |[0m > File downloaded https://www.sec.gov/Archives/edgar/full-index/2005/QTR1/xbrl.gz
-[36mapp_1  |[0m > File downloaded https://www.sec.gov/Archives/edgar/full-index/2005/QTR2/xbrl.gz
-[36mapp_1  |[0m > File downloaded https://www.sec.gov/Archives/edgar/full-index/2005/QTR3/xbrl.gz
-[36mapp_1  |[0m > File downloaded https://www.sec.gov/Archives/edgar/full-index/2005/QTR4/xbrl.gz
-[36mapp_1  |[0m > File downloaded https://www.sec.gov/Archives/edgar/full-index/2006/QTR1/xbrl.gz
-[36mapp_1  |[0m > File downloaded https://www.sec.gov/Archives/edgar/full-index/2006/QTR2/xbrl.gz
-[36mapp_1  |[0m > File downloaded https://www.sec.gov/Archives/edgar/full-index/2006/QTR3/xbrl.gz
-[36mapp_1  |[0m > File downloaded https://www.sec.gov/Archives/edgar/full-index/2006/QTR4/xbrl.gz
-[36mapp_1  |[0m > File downloaded https://www.sec.gov/Archives/edgar/full-index/2007/QTR1/xbrl.gz
-[36mapp_1  |[0m > File downloaded https://www.sec.gov/Archives/edgar/full-index/2007/QTR2/xbrl.gz
-[36mapp_1  |[0m > File downloaded https://www.sec.gov/Archives/edgar/full-index/2007/QTR3/xbrl.gz
-[36mapp_1  |[0m > File downloaded https://www.sec.gov/Archives/edgar/full-index/2007/QTR4/xbrl.gz
-[36mapp_1  |[0m > File downloaded https://www.sec.gov/Archives/edgar/full-index/2008/QTR1/xbrl.gz
-[36mapp_1  |[0m > File downloaded https://www.sec.gov/Archives/edgar/full-index/2008/QTR2/xbrl.gz
-[36mapp_1  |[0m > File downloaded https://www.sec.gov/Archives/edgar/full-index/2008/QTR3/xbrl.gz
-[36mapp_1  |[0m > File downloaded https://www.sec.gov/Archives/edgar/full-index/2008/QTR4/xbrl.gz
-[36mapp_1  |[0m > File downloaded https://www.sec.gov/Archives/edgar/full-index/2009/QTR1/xbrl.gz
-[36mapp_1  |[0m > File downloaded https://www.sec.gov/Archives/edgar/full-index/2009/QTR2/xbrl.gz
-[36mapp_1  |[0m > File downloaded https://www.sec.gov/Archives/edgar/full-index/2009/QTR3/xbrl.gz
-[36mapp_1  |[0m > File downloaded https://www.sec.gov/Archives/edgar/full-index/2009/QTR4/xbrl.gz
-[36mapp_1  |[0m > File downloaded https://www.sec.gov/Archives/edgar/full-index/2010/QTR1/xbrl.gz
-[36mapp_1  |[0m > File downloaded https://www.sec.gov/Archives/edgar/full-index/2010/QTR2/xbrl.gz
-[36mapp_1  |[0m > File downloaded https://www.sec.gov/Archives/edgar/full-index/2010/QTR3/xbrl.gz
-[36mapp_1  |[0m > File downloaded https://www.sec.gov/Archives/edgar/full-index/2010/QTR4/xbrl.gz
-[36mapp_1  |[0m > File downloaded https://www.sec.gov/Archives/edgar/full-index/2011/QTR1/xbrl.gz
-[36mapp_1  |[0m > File downloaded https://www.sec.gov/Archives/edgar/full-index/2011/QTR2/xbrl.gz
-[36mapp_1  |[0m > File downloaded https://www.sec.gov/Archives/edgar/full-index/2011/QTR3/xbrl.gz
-[36mapp_1  |[0m > File downloaded https://www.sec.gov/Archives/edgar/full-index/2011/QTR4/xbrl.gz
-[36mapp_1  |[0m > File downloaded https://www.sec.gov/Archives/edgar/full-index/2012/QTR1/xbrl.gz
-[36mapp_1  |[0m > File downloaded https://www.sec.gov/Archives/edgar/full-index/2012/QTR2/xbrl.gz
-[36mapp_1  |[0m > File downloaded https://www.sec.gov/Archives/edgar/full-index/2012/QTR3/xbrl.gz
-[36mapp_1  |[0m > File downloaded https://www.sec.gov/Archives/edgar/full-index/2012/QTR4/xbrl.gz
-[36mapp_1  |[0m > File downloaded https://www.sec.gov/Archives/edgar/full-index/2013/QTR1/xbrl.gz
-[36mapp_1  |[0m > File downloaded https://www.sec.gov/Archives/edgar/full-index/2013/QTR2/xbrl.gz
-[36mapp_1  |[0m > File downloaded https://www.sec.gov/Archives/edgar/full-index/2013/QTR3/xbrl.gz
-[36mapp_1  |[0m > File downloaded https://www.sec.gov/Archives/edgar/full-index/2013/QTR4/xbrl.gz
-[36mapp_1  |[0m > File downloaded https://www.sec.gov/Archives/edgar/full-index/2014/QTR1/xbrl.gz
-[36mapp_1  |[0m > File downloaded https://www.sec.gov/Archives/edgar/full-index/2014/QTR2/xbrl.gz
-[36mapp_1  |[0m > File downloaded https://www.sec.gov/Archives/edgar/full-index/2014/QTR3/xbrl.gz
-[36mapp_1  |[0m > File downloaded https://www.sec.gov/Archives/edgar/full-index/2014/QTR4/xbrl.gz
-[36mapp_1  |[0m > File downloaded https://www.sec.gov/Archives/edgar/full-index/2015/QTR1/xbrl.gz
-[36mapp_1  |[0m > File downloaded https://www.sec.gov/Archives/edgar/full-index/2015/QTR2/xbrl.gz
-[36mapp_1  |[0m > File downloaded https://www.sec.gov/Archives/edgar/full-index/2015/QTR3/xbrl.gz
-[36mapp_1  |[0m > File downloaded https://www.sec.gov/Archives/edgar/full-index/2015/QTR4/xbrl.gz
-[36mapp_1  |[0m > File downloaded https://www.sec.gov/Archives/edgar/full-index/2016/QTR1/xbrl.gz
-[36mapp_1  |[0m > File downloaded https://www.sec.gov/Archives/edgar/full-index/2016/QTR2/xbrl.gz
-[36mapp_1  |[0m > File downloaded https://www.sec.gov/Archives/edgar/full-index/2016/QTR3/xbrl.gz
-[36mapp_1  |[0m > File downloaded https://www.sec.gov/Archives/edgar/full-index/2016/QTR4/xbrl.gz
-[36mapp_1  |[0m > File downloaded https://www.sec.gov/Archives/edgar/full-index/2017/QTR1/xbrl.gz
-[36mapp_1  |[0m > File downloaded https://www.sec.gov/Archives/edgar/full-index/2017/QTR2/xbrl.gz
-[36mapp_1  |[0m > File downloaded https://www.sec.gov/Archives/edgar/full-index/2017/QTR3/xbrl.gz
-[36mapp_1  |[0m > File downloaded https://www.sec.gov/Archives/edgar/full-index/2017/QTR4/xbrl.gz
-[36mapp_1  |[0m > File downloaded https://www.sec.gov/Archives/edgar/full-index/2018/QTR1/xbrl.gz
-[36mapp_1  |[0m > File downloaded https://www.sec.gov/Archives/edgar/full-index/2018/QTR2/xbrl.gz
-[36mapp_1  |[0m > File downloaded https://www.sec.gov/Archives/edgar/full-index/2018/QTR3/xbrl.gz
-[36mapp_1  |[0m > File downloaded https://www.sec.gov/Archives/edgar/full-index/2018/QTR4/xbrl.gz
-[36mapp_1  |[0m > File downloaded https://www.sec.gov/Archives/edgar/full-index/2019/QTR1/xbrl.gz
-[36mapp_1  |[0m > File downloaded https://www.sec.gov/Archives/edgar/full-index/2019/QTR2/xbrl.gz
-[36mapp_1  |[0m > File downloaded https://www.sec.gov/Archives/edgar/full-index/2019/QTR3/xbrl.gz
-[36mapp_1  |[0m > File downloaded https://www.sec.gov/Archives/edgar/full-index/2019/QTR4/xbrl.gz
-[36mapp_1  |[0m > File downloaded https://www.sec.gov/Archives/edgar/full-index/2020/QTR1/xbrl.gz
+[36mapp_1  |[0m > File exist. Skipping https://www.sec.gov/Archives/edgar/full-index/1994/QTR4/xbrl.gz
+[36mapp_1  |[0m > File exist. Skipping https://www.sec.gov/Archives/edgar/full-index/1995/QTR1/xbrl.gz
+[36mapp_1  |[0m > File exist. Skipping https://www.sec.gov/Archives/edgar/full-index/1995/QTR2/xbrl.gz
+[36mapp_1  |[0m > File exist. Skipping https://www.sec.gov/Archives/edgar/full-index/1995/QTR3/xbrl.gz
+[36mapp_1  |[0m > File exist. Skipping https://www.sec.gov/Archives/edgar/full-index/1995/QTR4/xbrl.gz
+[36mapp_1  |[0m > File exist. Skipping https://www.sec.gov/Archives/edgar/full-index/1996/QTR1/xbrl.gz
+[36mapp_1  |[0m > File exist. Skipping https://www.sec.gov/Archives/edgar/full-index/1996/QTR2/xbrl.gz
+[36mapp_1  |[0m > File exist. Skipping https://www.sec.gov/Archives/edgar/full-index/1996/QTR3/xbrl.gz
+[36mapp_1  |[0m > File exist. Skipping https://www.sec.gov/Archives/edgar/full-index/1996/QTR4/xbrl.gz
+[36mapp_1  |[0m > File exist. Skipping https://www.sec.gov/Archives/edgar/full-index/1997/QTR1/xbrl.gz
+[36mapp_1  |[0m > File exist. Skipping https://www.sec.gov/Archives/edgar/full-index/1997/QTR2/xbrl.gz
+[36mapp_1  |[0m > File exist. Skipping https://www.sec.gov/Archives/edgar/full-index/1997/QTR3/xbrl.gz
+[36mapp_1  |[0m > File exist. Skipping https://www.sec.gov/Archives/edgar/full-index/1997/QTR4/xbrl.gz
+[36mapp_1  |[0m > File exist. Skipping https://www.sec.gov/Archives/edgar/full-index/1998/QTR1/xbrl.gz
+[36mapp_1  |[0m > File exist. Skipping https://www.sec.gov/Archives/edgar/full-index/1998/QTR2/xbrl.gz
+[36mapp_1  |[0m > File exist. Skipping https://www.sec.gov/Archives/edgar/full-index/1998/QTR3/xbrl.gz
+[36mapp_1  |[0m > File exist. Skipping https://www.sec.gov/Archives/edgar/full-index/1998/QTR4/xbrl.gz
+[36mapp_1  |[0m > File exist. Skipping https://www.sec.gov/Archives/edgar/full-index/1999/QTR1/xbrl.gz
+[36mapp_1  |[0m > File exist. Skipping https://www.sec.gov/Archives/edgar/full-index/1999/QTR2/xbrl.gz
+[36mapp_1  |[0m > File exist. Skipping https://www.sec.gov/Archives/edgar/full-index/1999/QTR3/xbrl.gz
+[36mapp_1  |[0m > File exist. Skipping https://www.sec.gov/Archives/edgar/full-index/1999/QTR4/xbrl.gz
+[36mapp_1  |[0m > File exist. Skipping https://www.sec.gov/Archives/edgar/full-index/2000/QTR1/xbrl.gz
+[36mapp_1  |[0m > File exist. Skipping https://www.sec.gov/Archives/edgar/full-index/2000/QTR2/xbrl.gz
+[36mapp_1  |[0m > File exist. Skipping https://www.sec.gov/Archives/edgar/full-index/2000/QTR3/xbrl.gz
+[36mapp_1  |[0m > File exist. Skipping https://www.sec.gov/Archives/edgar/full-index/2000/QTR4/xbrl.gz
+[36mapp_1  |[0m > File exist. Skipping https://www.sec.gov/Archives/edgar/full-index/2001/QTR1/xbrl.gz
+[36mapp_1  |[0m > File exist. Skipping https://www.sec.gov/Archives/edgar/full-index/2001/QTR2/xbrl.gz
+[36mapp_1  |[0m > File exist. Skipping https://www.sec.gov/Archives/edgar/full-index/2001/QTR3/xbrl.gz
+[36mapp_1  |[0m > File exist. Skipping https://www.sec.gov/Archives/edgar/full-index/2001/QTR4/xbrl.gz
+[36mapp_1  |[0m > File exist. Skipping https://www.sec.gov/Archives/edgar/full-index/2002/QTR1/xbrl.gz
+[36mapp_1  |[0m > File exist. Skipping https://www.sec.gov/Archives/edgar/full-index/2002/QTR2/xbrl.gz
+[36mapp_1  |[0m > File exist. Skipping https://www.sec.gov/Archives/edgar/full-index/2002/QTR3/xbrl.gz
+[36mapp_1  |[0m > File exist. Skipping https://www.sec.gov/Archives/edgar/full-index/2002/QTR4/xbrl.gz
+[36mapp_1  |[0m > File exist. Skipping https://www.sec.gov/Archives/edgar/full-index/2003/QTR1/xbrl.gz
+[36mapp_1  |[0m > File exist. Skipping https://www.sec.gov/Archives/edgar/full-index/2003/QTR2/xbrl.gz
+[36mapp_1  |[0m > File exist. Skipping https://www.sec.gov/Archives/edgar/full-index/2003/QTR3/xbrl.gz
+[36mapp_1  |[0m > File exist. Skipping https://www.sec.gov/Archives/edgar/full-index/2003/QTR4/xbrl.gz
+[36mapp_1  |[0m > File exist. Skipping https://www.sec.gov/Archives/edgar/full-index/2004/QTR1/xbrl.gz
+[36mapp_1  |[0m > File exist. Skipping https://www.sec.gov/Archives/edgar/full-index/2004/QTR2/xbrl.gz
+[36mapp_1  |[0m > File exist. Skipping https://www.sec.gov/Archives/edgar/full-index/2004/QTR3/xbrl.gz
+[36mapp_1  |[0m > File exist. Skipping https://www.sec.gov/Archives/edgar/full-index/2004/QTR4/xbrl.gz
+[36mapp_1  |[0m > File exist. Skipping https://www.sec.gov/Archives/edgar/full-index/2005/QTR1/xbrl.gz
+[36mapp_1  |[0m > File exist. Skipping https://www.sec.gov/Archives/edgar/full-index/2005/QTR2/xbrl.gz
+[36mapp_1  |[0m > File exist. Skipping https://www.sec.gov/Archives/edgar/full-index/2005/QTR3/xbrl.gz
+[36mapp_1  |[0m > File exist. Skipping https://www.sec.gov/Archives/edgar/full-index/2005/QTR4/xbrl.gz
+[36mapp_1  |[0m > File exist. Skipping https://www.sec.gov/Archives/edgar/full-index/2006/QTR1/xbrl.gz
+[36mapp_1  |[0m > File exist. Skipping https://www.sec.gov/Archives/edgar/full-index/2006/QTR2/xbrl.gz
+[36mapp_1  |[0m > File exist. Skipping https://www.sec.gov/Archives/edgar/full-index/2006/QTR3/xbrl.gz
+[36mapp_1  |[0m > File exist. Skipping https://www.sec.gov/Archives/edgar/full-index/2006/QTR4/xbrl.gz
+[36mapp_1  |[0m > File exist. Skipping https://www.sec.gov/Archives/edgar/full-index/2007/QTR1/xbrl.gz
+[36mapp_1  |[0m > File exist. Skipping https://www.sec.gov/Archives/edgar/full-index/2007/QTR2/xbrl.gz
+[36mapp_1  |[0m > File exist. Skipping https://www.sec.gov/Archives/edgar/full-index/2007/QTR3/xbrl.gz
+[36mapp_1  |[0m > File exist. Skipping https://www.sec.gov/Archives/edgar/full-index/2007/QTR4/xbrl.gz
+[36mapp_1  |[0m > File exist. Skipping https://www.sec.gov/Archives/edgar/full-index/2008/QTR1/xbrl.gz
+[36mapp_1  |[0m > File exist. Skipping https://www.sec.gov/Archives/edgar/full-index/2008/QTR2/xbrl.gz
+[36mapp_1  |[0m > File exist. Skipping https://www.sec.gov/Archives/edgar/full-index/2008/QTR3/xbrl.gz
+[36mapp_1  |[0m > File exist. Skipping https://www.sec.gov/Archives/edgar/full-index/2008/QTR4/xbrl.gz
+[36mapp_1  |[0m > File exist. Skipping https://www.sec.gov/Archives/edgar/full-index/2009/QTR1/xbrl.gz
+[36mapp_1  |[0m > File exist. Skipping https://www.sec.gov/Archives/edgar/full-index/2009/QTR2/xbrl.gz
+[36mapp_1  |[0m > File exist. Skipping https://www.sec.gov/Archives/edgar/full-index/2009/QTR3/xbrl.gz
+[36mapp_1  |[0m > File exist. Skipping https://www.sec.gov/Archives/edgar/full-index/2009/QTR4/xbrl.gz
+[36mapp_1  |[0m > File exist. Skipping https://www.sec.gov/Archives/edgar/full-index/2010/QTR1/xbrl.gz
+[36mapp_1  |[0m > File exist. Skipping https://www.sec.gov/Archives/edgar/full-index/2010/QTR2/xbrl.gz
+[36mapp_1  |[0m > File exist. Skipping https://www.sec.gov/Archives/edgar/full-index/2010/QTR3/xbrl.gz
+[36mapp_1  |[0m > File exist. Skipping https://www.sec.gov/Archives/edgar/full-index/2010/QTR4/xbrl.gz
+[36mapp_1  |[0m > File exist. Skipping https://www.sec.gov/Archives/edgar/full-index/2011/QTR1/xbrl.gz
+[36mapp_1  |[0m > File exist. Skipping https://www.sec.gov/Archives/edgar/full-index/2011/QTR2/xbrl.gz
+[36mapp_1  |[0m > File exist. Skipping https://www.sec.gov/Archives/edgar/full-index/2011/QTR3/xbrl.gz
+[36mapp_1  |[0m > File exist. Skipping https://www.sec.gov/Archives/edgar/full-index/2011/QTR4/xbrl.gz
+[36mapp_1  |[0m > File exist. Skipping https://www.sec.gov/Archives/edgar/full-index/2012/QTR1/xbrl.gz
+[36mapp_1  |[0m > File exist. Skipping https://www.sec.gov/Archives/edgar/full-index/2012/QTR2/xbrl.gz
+[36mapp_1  |[0m > File exist. Skipping https://www.sec.gov/Archives/edgar/full-index/2012/QTR3/xbrl.gz
+[36mapp_1  |[0m > File exist. Skipping https://www.sec.gov/Archives/edgar/full-index/2012/QTR4/xbrl.gz
+[36mapp_1  |[0m > File exist. Skipping https://www.sec.gov/Archives/edgar/full-index/2013/QTR1/xbrl.gz
+[36mapp_1  |[0m > File exist. Skipping https://www.sec.gov/Archives/edgar/full-index/2013/QTR2/xbrl.gz
+[36mapp_1  |[0m > File exist. Skipping https://www.sec.gov/Archives/edgar/full-index/2013/QTR3/xbrl.gz
+[36mapp_1  |[0m > File exist. Skipping https://www.sec.gov/Archives/edgar/full-index/2013/QTR4/xbrl.gz
+[36mapp_1  |[0m > File exist. Skipping https://www.sec.gov/Archives/edgar/full-index/2014/QTR1/xbrl.gz
+[36mapp_1  |[0m > File exist. Skipping https://www.sec.gov/Archives/edgar/full-index/2014/QTR2/xbrl.gz
+[36mapp_1  |[0m > File exist. Skipping https://www.sec.gov/Archives/edgar/full-index/2014/QTR3/xbrl.gz
+[36mapp_1  |[0m > File exist. Skipping https://www.sec.gov/Archives/edgar/full-index/2014/QTR4/xbrl.gz
+[36mapp_1  |[0m > File exist. Skipping https://www.sec.gov/Archives/edgar/full-index/2015/QTR1/xbrl.gz
+[36mapp_1  |[0m > File exist. Skipping https://www.sec.gov/Archives/edgar/full-index/2015/QTR2/xbrl.gz
+[36mapp_1  |[0m > File exist. Skipping https://www.sec.gov/Archives/edgar/full-index/2015/QTR3/xbrl.gz
+[36mapp_1  |[0m > File exist. Skipping https://www.sec.gov/Archives/edgar/full-index/2015/QTR4/xbrl.gz
+[36mapp_1  |[0m > File exist. Skipping https://www.sec.gov/Archives/edgar/full-index/2016/QTR1/xbrl.gz
+[36mapp_1  |[0m > File exist. Skipping https://www.sec.gov/Archives/edgar/full-index/2016/QTR2/xbrl.gz
+[36mapp_1  |[0m > File exist. Skipping https://www.sec.gov/Archives/edgar/full-index/2016/QTR3/xbrl.gz
+[36mapp_1  |[0m > File exist. Skipping https://www.sec.gov/Archives/edgar/full-index/2016/QTR4/xbrl.gz
+[36mapp_1  |[0m > File exist. Skipping https://www.sec.gov/Archives/edgar/full-index/2017/QTR1/xbrl.gz
+[36mapp_1  |[0m > File exist. Skipping https://www.sec.gov/Archives/edgar/full-index/2017/QTR2/xbrl.gz
+[36mapp_1  |[0m > File exist. Skipping https://www.sec.gov/Archives/edgar/full-index/2017/QTR3/xbrl.gz
+[36mapp_1  |[0m > File exist. Skipping https://www.sec.gov/Archives/edgar/full-index/2017/QTR4/xbrl.gz
+[36mapp_1  |[0m > File exist. Skipping https://www.sec.gov/Archives/edgar/full-index/2018/QTR1/xbrl.gz
+[36mapp_1  |[0m > File exist. Skipping https://www.sec.gov/Archives/edgar/full-index/2018/QTR2/xbrl.gz
+[36mapp_1  |[0m > File exist. Skipping https://www.sec.gov/Archives/edgar/full-index/2018/QTR3/xbrl.gz
+[36mapp_1  |[0m > File exist. Skipping https://www.sec.gov/Archives/edgar/full-index/2018/QTR4/xbrl.gz
+[36mapp_1  |[0m > File exist. Skipping https://www.sec.gov/Archives/edgar/full-index/2019/QTR1/xbrl.gz
+[36mapp_1  |[0m > File exist. Skipping https://www.sec.gov/Archives/edgar/full-index/2019/QTR2/xbrl.gz
+[36mapp_1  |[0m > File exist. Skipping https://www.sec.gov/Archives/edgar/full-index/2019/QTR3/xbrl.gz
+[36mapp_1  |[0m > File exist. Skipping https://www.sec.gov/Archives/edgar/full-index/2019/QTR4/xbrl.gz
+[36mapp_1  |[0m > File exist. Skipping https://www.sec.gov/Archives/edgar/full-index/2020/QTR1/xbrl.gz
 [36mapp_1  |[0m java.io.IOException: Server returned HTTP response code: 403 for URL: https://www.sec.gov/Archives/edgar/full-index/2020/QTR2/xbrl.gz
 [36mapp_1  |[0m 	at java.base/sun.net.www.protocol.http.HttpURLConnection.getInputStream0(HttpURLConnection.java:1919)
 [36mapp_1  |[0m 	at java.base/sun.net.www.protocol.http.HttpURLConnection.getInputStream(HttpURLConnection.java:1515)
-[36mapp_1  |[0m 	at java.base/sun.net.www.protocol.https.HttpsURLConnectionImpl.getInputStream(HttpsURLConnectionImpl.java:250)> File downloaded https://www.sec.gov/Archives/edgar/full-index/2020/QTR2/xbrl.gz
-[36mapp_1  |[0m 
+[36mapp_1  |[0m 	at java.base/sun.net.www.protocol.https.HttpsURLConnectionImpl.getInputStream(HttpsURLConnectionImpl.java:250)
 [36mapp_1  |[0m 	at java.base/java.net.URL.openStream(URL.java:1139)
-[36mapp_1  |[0m 	at com.gohubert.xbrlfetcher.Fetch.get(Fetch.java:46)
-[36mapp_1  |[0m 	at com.gohubert.xbrlfetcher.Fetch.fetchXBRLIndexAll(Fetch.java:127)
-[36mapp_1  |[0m 	at com.gohubert.xbrlfetcher.Fetch.run(Fetch.java:146)
+[36mapp_1  |[0m 	at com.gohubert.xbrlfetcher.Fetch.get(Fetch.java:73)
+[36mapp_1  |[0m 	at com.gohubert.xbrlfetcher.Fetch.fetchXBRLIndexAll(Fetch.java:180)
+[36mapp_1  |[0m 	at com.gohubert.xbrlfetcher.Fetch.run(Fetch.java:199)
 [36mapp_1  |[0m 	at com.gohubert.xbrlfetcher.App.main(App.java:6)
+[36mapp_1  |[0m > File downloaded https://www.sec.gov/Archives/edgar/full-index/2020/QTR2/xbrl.gz
 [36mapp_1  |[0m java.io.IOException: Server returned HTTP response code: 403 for URL: https://www.sec.gov/Archives/edgar/full-index/2020/QTR3/xbrl.gz
 [36mapp_1  |[0m 	at java.base/sun.net.www.protocol.http.HttpURLConnection.getInputStream0(HttpURLConnection.java:1919)
 [36mapp_1  |[0m 	at java.base/sun.net.www.protocol.http.HttpURLConnection.getInputStream(HttpURLConnection.java:1515)
 [36mapp_1  |[0m 	at java.base/sun.net.www.protocol.https.HttpsURLConnectionImpl.getInputStream(HttpsURLConnectionImpl.java:250)
 [36mapp_1  |[0m 	at java.base/java.net.URL.openStream(URL.java:1139)
-[36mapp_1  |[0m > File downloaded https://www.sec.gov/Archives/edgar/full-index/2020/QTR3/xbrl.gz
-[36mapp_1  |[0m 	at com.gohubert.xbrlfetcher.Fetch.get(Fetch.java:46)
-[36mapp_1  |[0m 	at com.gohubert.xbrlfetcher.Fetch.fetchXBRLIndexAll(Fetch.java:127)
-[36mapp_1  |[0m 	at com.gohubert.xbrlfetcher.Fetch.run(Fetch.java:146)
+[36mapp_1  |[0m 	at com.gohubert.xbrlfetcher.Fetch.get(Fetch.java:73)
+[36mapp_1  |[0m 	at com.gohubert.xbrlfetcher.Fetch.fetchXBRLIndexAll(Fetch.java:180)
+[36mapp_1  |[0m 	at com.gohubert.xbrlfetcher.Fetch.run(Fetch.java:199)
 [36mapp_1  |[0m 	at com.gohubert.xbrlfetcher.App.main(App.java:6)
+[36mapp_1  |[0m > File downloaded https://www.sec.gov/Archives/edgar/full-index/2020/QTR3/xbrl.gz
 [36mapp_1  |[0m java.io.IOException: Server returned HTTP response code: 403 for URL: https://www.sec.gov/Archives/edgar/full-index/2020/QTR4/xbrl.gz
 [36mapp_1  |[0m 	at java.base/sun.net.www.protocol.http.HttpURLConnection.getInputStream0(HttpURLConnection.java:1919)
 [36mapp_1  |[0m 	at java.base/sun.net.www.protocol.http.HttpURLConnection.getInputStream(HttpURLConnection.java:1515)
 [36mapp_1  |[0m 	at java.base/sun.net.www.protocol.https.HttpsURLConnectionImpl.getInputStream(HttpsURLConnectionImpl.java:250)
 [36mapp_1  |[0m 	at java.base/java.net.URL.openStream(URL.java:1139)
-[36mapp_1  |[0m 	at com.gohubert.xbrlfetcher.Fetch.get(Fetch.java:46)
-[36mapp_1  |[0m 	at com.gohubert.xbrlfetcher.Fetch.fetchXBRLIndexAll(Fetch.java:127)
-[36mapp_1  |[0m 	at com.gohubert.xbrlfetcher.Fetch.run(Fetch.java:146)
+[36mapp_1  |[0m 	at com.gohubert.xbrlfetcher.Fetch.get(Fetch.java:73)
+[36mapp_1  |[0m 	at com.gohubert.xbrlfetcher.Fetch.fetchXBRLIndexAll(Fetch.java:180)
+[36mapp_1  |[0m 	at com.gohubert.xbrlfetcher.Fetch.run(Fetch.java:199)
 [36mapp_1  |[0m 	at com.gohubert.xbrlfetcher.App.main(App.java:6)
 [36mapp_1  |[0m > File downloaded https://www.sec.gov/Archives/edgar/full-index/2020/QTR4/xbrl.gz
-[36mxbrlfetcher_app_1 exited with code 0
-[0m
+[36mapp_1  |[0m > Extracting tmp/xbrl/index/1993/QTR1/xbrl.gz complete to tmp/xbrl.idx
+[36mapp_1  |[0m > Extracting tmp/xbrl/index/1993/QTR2/xbrl.gz complete to tmp/xbrl.idx
+[36mapp_1  |[0m > Extracting tmp/xbrl/index/1993/QTR3/xbrl.gz complete to tmp/xbrl.idx
+[36mapp_1  |[0m > Extracting tmp/xbrl/index/1993/QTR4/xbrl.gz complete to tmp/xbrl.idx
+[36mapp_1  |[0m > Extracting tmp/xbrl/index/1994/QTR1/xbrl.gz complete to tmp/xbrl.idx
+[36mapp_1  |[0m > Extracting tmp/xbrl/index/1994/QTR2/xbrl.gz complete to tmp/xbrl.idx
+[36mapp_1  |[0m > Extracting tmp/xbrl/index/1994/QTR3/xbrl.gz complete to tmp/xbrl.idx
+[36mapp_1  |[0m > Extracting tmp/xbrl/index/1994/QTR4/xbrl.gz complete to tmp/xbrl.idx
+[36mapp_1  |[0m > Extracting tmp/xbrl/index/1995/QTR1/xbrl.gz complete to tmp/xbrl.idx
+[36mapp_1  |[0m > Extracting tmp/xbrl/index/1995/QTR2/xbrl.gz complete to tmp/xbrl.idx
+[36mapp_1  |[0m > Extracting tmp/xbrl/index/1995/QTR3/xbrl.gz complete to tmp/xbrl.idx
+[36mapp_1  |[0m > Extracting tmp/xbrl/index/1995/QTR4/xbrl.gz complete to tmp/xbrl.idx
+[36mapp_1  |[0m > Extracting tmp/xbrl/index/1996/QTR1/xbrl.gz complete to tmp/xbrl.idx
+[36mapp_1  |[0m > Extracting tmp/xbrl/index/1996/QTR2/xbrl.gz complete to tmp/xbrl.idx
+[36mapp_1  |[0m > Extracting tmp/xbrl/index/1996/QTR3/xbrl.gz complete to tmp/xbrl.idx
+[36mapp_1  |[0m > Extracting tmp/xbrl/index/1996/QTR4/xbrl.gz complete to tmp/xbrl.idx
+[36mapp_1  |[0m > Extracting tmp/xbrl/index/1997/QTR1/xbrl.gz complete to tmp/xbrl.idx
+[36mapp_1  |[0m > Extracting tmp/xbrl/index/1997/QTR2/xbrl.gz complete to tmp/xbrl.idx
+[36mapp_1  |[0m > Extracting tmp/xbrl/index/1997/QTR3/xbrl.gz complete to tmp/xbrl.idx
+[36mapp_1  |[0m > Extracting tmp/xbrl/index/1997/QTR4/xbrl.gz complete to tmp/xbrl.idx
+[36mapp_1  |[0m > Extracting tmp/xbrl/index/1998/QTR1/xbrl.gz complete to tmp/xbrl.idx
+[36mapp_1  |[0m > Extracting tmp/xbrl/index/1998/QTR2/xbrl.gz complete to tmp/xbrl.idx
+[36mapp_1  |[0m > Extracting tmp/xbrl/index/1998/QTR3/xbrl.gz complete to tmp/xbrl.idx
+[36mapp_1  |[0m > Extracting tmp/xbrl/index/1998/QTR4/xbrl.gz complete to tmp/xbrl.idx
+[36mapp_1  |[0m > Extracting tmp/xbrl/index/1999/QTR1/xbrl.gz complete to tmp/xbrl.idx
+[36mapp_1  |[0m > Extracting tmp/xbrl/index/1999/QTR2/xbrl.gz complete to tmp/xbrl.idx
+[36mapp_1  |[0m > Extracting tmp/xbrl/index/1999/QTR3/xbrl.gz complete to tmp/xbrl.idx
+[36mapp_1  |[0m > Extracting tmp/xbrl/index/1999/QTR4/xbrl.gz complete to tmp/xbrl.idx
+[36mapp_1  |[0m > Extracting tmp/xbrl/index/2000/QTR1/xbrl.gz complete to tmp/xbrl.idx
+[36mapp_1  |[0m > Extracting tmp/xbrl/index/2000/QTR2/xbrl.gz complete to tmp/xbrl.idx
+[36mapp_1  |[0m > Extracting tmp/xbrl/index/2000/QTR3/xbrl.gz complete to tmp/xbrl.idx
+[36mapp_1  |[0m > Extracting tmp/xbrl/index/2000/QTR4/xbrl.gz complete to tmp/xbrl.idx
+[36mapp_1  |[0m > Extracting tmp/xbrl/index/2001/QTR1/xbrl.gz complete to tmp/xbrl.idx
+[36mapp_1  |[0m > Extracting tmp/xbrl/index/2001/QTR2/xbrl.gz complete to tmp/xbrl.idx
+[36mapp_1  |[0m > Extracting tmp/xbrl/index/2001/QTR3/xbrl.gz complete to tmp/xbrl.idx
+[36mapp_1  |[0m > Extracting tmp/xbrl/index/2001/QTR4/xbrl.gz complete to tmp/xbrl.idx
+[36mapp_1  |[0m > Extracting tmp/xbrl/index/2002/QTR1/xbrl.gz complete to tmp/xbrl.idx
+[36mapp_1  |[0m > Extracting tmp/xbrl/index/2002/QTR2/xbrl.gz complete to tmp/xbrl.idx
+[36mapp_1  |[0m > Extracting tmp/xbrl/index/2002/QTR3/xbrl.gz complete to tmp/xbrl.idx
+[36mapp_1  |[0m > Extracting tmp/xbrl/index/2002/QTR4/xbrl.gz complete to tmp/xbrl.idx
+[36mapp_1  |[0m > Extracting tmp/xbrl/index/2003/QTR1/xbrl.gz complete to tmp/xbrl.idx
+[36mapp_1  |[0m > Extracting tmp/xbrl/index/2003/QTR2/xbrl.gz complete to tmp/xbrl.idx
+[36mapp_1  |[0m > Extracting tmp/xbrl/index/2003/QTR3/xbrl.gz complete to tmp/xbrl.idx
+[36mapp_1  |[0m > Extracting tmp/xbrl/index/2003/QTR4/xbrl.gz complete to tmp/xbrl.idx
+[36mapp_1  |[0m > Extracting tmp/xbrl/index/2004/QTR1/xbrl.gz complete to tmp/xbrl.idx
+[36mapp_1  |[0m > Extracting tmp/xbrl/index/2004/QTR2/xbrl.gz complete to tmp/xbrl.idx
+[36mapp_1  |[0m > Extracting tmp/xbrl/index/2004/QTR3/xbrl.gz complete to tmp/xbrl.idx
+[36mapp_1  |[0m > Extracting tmp/xbrl/index/2004/QTR4/xbrl.gz complete to tmp/xbrl.idx
+[36mapp_1  |[0m > File exist. Skipping 1107194 | CENTILLIUM COMMUNICATIONS INC | SC TO-I/A | 2004-12-13 | edgar/data/1107194/0000891618-04-001377.txt | edgar/data/1107194/ | 0000891618-04-001377.txt
+[36mapp_1  |[0m > Extracting tmp/xbrl/index/2005/QTR1/xbrl.gz complete to tmp/xbrl.idx
+[36mapp_1  |[0m > Extracting tmp/xbrl/index/2005/QTR2/xbrl.gz complete to tmp/xbrl.idx
+[36mapp_1  |[0m > File exist. Skipping 1000048 | TECHNOLOGY FLAVORS & FRAGRANCES INC | SC TO-T/A | 2005-05-26 | edgar/data/1000048/0001193125-05-115670.txt | edgar/data/1000048/ | 0001193125-05-115670.txt
+[36mapp_1  |[0m > File exist. Skipping 1067491 | INFOSYS TECHNOLOGIES LTD | 6-K | 2005-05-03 | edgar/data/1067491/0001193125-05-092677.txt | edgar/data/1067491/ | 0001193125-05-092677.txt
+[36mapp_1  |[0m > File exist. Skipping 1080224 | EDGAR ONLINE INC | 8-K | 2005-04-25 | edgar/data/1080224/0001275287-05-001434.txt | edgar/data/1080224/ | 0001275287-05-001434.txt
+[36mapp_1  |[0m > File exist. Skipping 1271941 | SILVERBOIM HOLDINGS LTD | SC TO-T/A | 2005-06-30 | edgar/data/1271941/0000950136-05-003917.txt | edgar/data/1271941/ | 0000950136-05-003917.txt
+[36mapp_1  |[0m > File exist. Skipping 1324099 | FFG Merger Corporation, Inc | SC TO-T/A | 2005-05-26 | edgar/data/1324099/0001193125-05-115670.txt | edgar/data/1324099/ | 0001193125-05-115670.txt
+[36mapp_1  |[0m > File exist. Skipping 13610 | BOWNE & CO INC | 8-K | 2005-04-04 | edgar/data/13610/0000950123-05-004029.txt | edgar/data/13610/ | 0000950123-05-004029.txt
+[36mapp_1  |[0m > File exist. Skipping 29669 | DONNELLEY R R & SONS CO | 8-K | 2005-04-04 | edgar/data/29669/0001193125-05-068717.txt | edgar/data/29669/ | 0001193125-05-068717.txt
+[36mapp_1  |[0m > File exist. Skipping 310485 | NATIONAL PROPERTY INVESTORS III | SC 13E3/A | 2005-04-27 | edgar/data/310485/0000950134-05-008256.txt | edgar/data/310485/ | 0000950134-05-008256.txt
+[36mapp_1  |[0m > File exist. Skipping 310485 | NATIONAL PROPERTY INVESTORS III | SC TO-T/A | 2005-04-27 | edgar/data/310485/0000950134-05-008256.txt | edgar/data/310485/ | 0000950134-05-008256.txt
+[36mapp_1  |[0m > File exist. Skipping 314690 | CENTURY PROPERTIES FUND XV | SC 13E3/A | 2005-04-27 | edgar/data/314690/0000950134-05-008257.txt | edgar/data/314690/ | 0000950134-05-008257.txt
+[36mapp_1  |[0m > File exist. Skipping 314690 | CENTURY PROPERTIES FUND XV | SC TO-T/A | 2005-04-27 | edgar/data/314690/0000950134-05-008257.txt | edgar/data/314690/ | 0000950134-05-008257.txt
+[36mapp_1  |[0m > File exist. Skipping 768598 | DAVIDSON INCOME REAL ESTATE LP | SC 13E3/A | 2005-04-27 | edgar/data/768598/0000950134-05-008249.txt | edgar/data/768598/ | 0000950134-05-008249.txt
+[36mapp_1  |[0m > File exist. Skipping 768598 | DAVIDSON INCOME REAL ESTATE LP | SC TO-T/A | 2005-04-27 | edgar/data/768598/0000950134-05-008249.txt | edgar/data/768598/ | 0000950134-05-008249.txt
+[36mapp_1  |[0m > File exist. Skipping 789019 | MICROSOFT CORP | 8-K | 2005-05-04 | edgar/data/789019/0001193125-05-095930.txt | edgar/data/789019/ | 0001193125-05-095930.txt
+[36mapp_1  |[0m > File exist. Skipping 790070 | EMC CORP | 8-K | 2005-05-06 | edgar/data/790070/0000950135-05-002637.txt | edgar/data/790070/ | 0000950135-05-002637.txt
+[36mapp_1  |[0m > File exist. Skipping 795757 | DAVIDSON GROWTH PLUS LP | SC 13E3/A | 2005-04-27 | edgar/data/795757/0000950134-05-008254.txt | edgar/data/795757/ | 0000950134-05-008254.txt
+[36mapp_1  |[0m > File exist. Skipping 795757 | DAVIDSON GROWTH PLUS LP | SC TO-T/A | 2005-04-27 | edgar/data/795757/0000950134-05-008254.txt | edgar/data/795757/ | 0000950134-05-008254.txt
+[36mapp_1  |[0m > File exist. Skipping 914227 | ROBOMATIX TECHNOLOGIES LTD | SC 13E3/A | 2005-06-30 | edgar/data/914227/0000950136-05-003917.txt | edgar/data/914227/ | 0000950136-05-003917.txt
+[36mapp_1  |[0m > File exist. Skipping 914227 | ROBOMATIX TECHNOLOGIES LTD | SC TO-T/A | 2005-06-30 | edgar/data/914227/0000950136-05-003917.txt | edgar/data/914227/ | 0000950136-05-003917.txt
+[36mapp_1  |[0m > File exist. Skipping 926660 | AIMCO PROPERTIES L.P. | SC TO-T/A | 2005-04-27 | edgar/data/926660/0000950134-05-008249.txt | edgar/data/926660/ | 0000950134-05-008249.txt
+[36mapp_1  |[0m > File exist. Skipping 926660 | AIMCO PROPERTIES L.P. | SC TO-T/A | 2005-04-27 | edgar/data/926660/0000950134-05-008254.txt | edgar/data/926660/ | 0000950134-05-008254.txt
+[36mapp_1  |[0m > File exist. Skipping 926660 | AIMCO PROPERTIES L.P. | SC TO-T/A | 2005-04-27 | edgar/data/926660/0000950134-05-008256.txt | edgar/data/926660/ | 0000950134-05-008256.txt
+[36mapp_1  |[0m > File exist. Skipping 926660 | AIMCO PROPERTIES L.P. | SC TO-T/A | 2005-04-27 | edgar/data/926660/0000950134-05-008257.txt | edgar/data/926660/ | 0000950134-05-008257.txt
+[36mapp_1  |[0m > File exist. Skipping 928753 | BUSINESS OBJECTS S.A. | 10-Q | 2005-05-09 | edgar/data/928753/0000891618-05-000338.txt | edgar/data/928753/ | 0000891618-05-000338.txt
+[36mapp_1  |[0m > Extracting tmp/xbrl/index/2005/QTR3/xbrl.gz complete to tmp/xbrl.idx
+[36mapp_1  |[0m > File exist. Skipping 101829 | UNITED TECHNOLOGIES CORP /DE/ | 8-K | 2005-08-19 | edgar/data/101829/0001193125-05-171147.txt | edgar/data/101829/ | 0001193125-05-171147.txt
+[36mapp_1  |[0m > File exist. Skipping 101829 | UNITED TECHNOLOGIES CORP /DE/ | 8-K | 2005-09-01 | edgar/data/101829/0001193125-05-178862.txt | edgar/data/101829/ | 0001193125-05-178862.txt
+[36mapp_1  |[0m > File exist. Skipping 1067491 | INFOSYS TECHNOLOGIES LTD | 6-K | 2005-09-09 | edgar/data/1067491/0000891618-05-000686.txt | edgar/data/1067491/ | 0000891618-05-000686.txt
+[36mapp_1  |[0m > File exist. Skipping 1080224 | EDGAR ONLINE INC | 8-K | 2005-09-26 | edgar/data/1080224/0001275287-05-003667.txt | edgar/data/1080224/ | 0001275287-05-003667.txt
+[36mapp_1  |[0m > File exist. Skipping 1080224 | EDGAR ONLINE INC | 8-K | 2005-09-26 | edgar/data/1080224/0001275287-05-003668.txt | edgar/data/1080224/ | 0001275287-05-003668.txt
+[36mapp_1  |[0m > File exist. Skipping 310485 | NATIONAL PROPERTY INVESTORS III | SC 13E3/A | 2005-07-08 | edgar/data/310485/0000950134-05-013056.txt | edgar/data/310485/ | 0000950134-05-013056.txt
+[36mapp_1  |[0m > File exist. Skipping 310485 | NATIONAL PROPERTY INVESTORS III | SC TO-T/A | 2005-07-08 | edgar/data/310485/0000950134-05-013056.txt | edgar/data/310485/ | 0000950134-05-013056.txt
+[36mapp_1  |[0m > File exist. Skipping 789019 | MICROSOFT CORP | 8-K | 2005-09-28 | edgar/data/789019/0001193125-05-193215.txt | edgar/data/789019/ | 0001193125-05-193215.txt
+[36mapp_1  |[0m > File exist. Skipping 790070 | EMC CORP | 8-K | 2005-08-05 | edgar/data/790070/0000950135-05-004506.txt | edgar/data/790070/ | 0000950135-05-004506.txt
+[36mapp_1  |[0m > File exist. Skipping 796343 | ADOBE SYSTEMS INC | 8-K | 2005-08-18 | edgar/data/796343/0001104659-05-040250.txt | edgar/data/796343/ | 0001104659-05-040250.txt
+[36mapp_1  |[0m > File exist. Skipping 926660 | AIMCO PROPERTIES L.P. | SC TO-T/A | 2005-07-08 | edgar/data/926660/0000950134-05-013056.txt | edgar/data/926660/ | 0000950134-05-013056.txt
+[36mapp_1  |[0m > File exist. Skipping 928753 | BUSINESS OBJECTS S.A. | 10-Q | 2005-08-09 | edgar/data/928753/0000891618-05-000573.txt | edgar/data/928753/ | 0000891618-05-000573.txt
+[36mapp_1  |[0m > Extracting tmp/xbrl/index/2005/QTR4/xbrl.gz complete to tmp/xbrl.idx
+[36mapp_1  |[0m > File exist. Skipping 101829 | UNITED TECHNOLOGIES CORP /DE/ | 8-K | 2005-11-01 | edgar/data/101829/0001193125-05-212986.txt | edgar/data/101829/ | 0001193125-05-212986.txt
+[36mapp_1  |[0m > File exist. Skipping 101829 | UNITED TECHNOLOGIES CORP /DE/ | 8-K | 2005-12-22 | edgar/data/101829/0001193125-05-247623.txt | edgar/data/101829/ | 0001193125-05-247623.txt
+[36mapp_1  |[0m > File exist. Skipping 1067491 | INFOSYS TECHNOLOGIES LTD | 6-K | 2005-12-01 | edgar/data/1067491/0000891618-05-000891.txt | edgar/data/1067491/ | 0000891618-05-000891.txt
+[36mapp_1  |[0m > File exist. Skipping 1325945 | Innophos Investment Holdings, Inc. | S-4 | 2005-11-23 | edgar/data/1325945/0001193125-05-231927.txt | edgar/data/1325945/ | 0001193125-05-231927.txt
+[36mapp_1  |[0m > File exist. Skipping 789019 | MICROSOFT CORP | 8-K | 2005-11-29 | edgar/data/789019/0001193125-05-233350.txt | edgar/data/789019/ | 0001193125-05-233350.txt
+[36mapp_1  |[0m > File exist. Skipping 790070 | EMC CORP | 8-K | 2005-11-03 | edgar/data/790070/0000950135-05-006199.txt | edgar/data/790070/ | 0000950135-05-006199.txt
+[36mapp_1  |[0m > File exist. Skipping 796343 | ADOBE SYSTEMS INC | 10-Q | 2005-10-05 | edgar/data/796343/0001104659-05-047297.txt | edgar/data/796343/ | 0001104659-05-047297.txt
+[36mapp_1  |[0m > Extracting tmp/xbrl/index/2006/QTR1/xbrl.gz complete to tmp/xbrl.idx
+[36mapp_1  |[0m > File exist. Skipping 101829 | UNITED TECHNOLOGIES CORP /DE/ | 8-K | 2006-02-08 | edgar/data/101829/0001193125-06-023619.txt | edgar/data/101829/ | 0001193125-06-023619.txt
+[36mapp_1  |[0m > File exist. Skipping 1106056 | SATYAM COMPUTER SERVICES LTD | 6-K | 2006-03-27 | edgar/data/1106056/0001145549-06-000399.txt | edgar/data/1106056/ | 0001145549-06-000399.txt
+[36mapp_1  |[0m > File exist. Skipping 1347402 | IRON ACQUISITION CORP | SC TO-T/A | 2006-02-23 | edgar/data/1347402/0001047469-06-002361.txt | edgar/data/1347402/ | 0001047469-06-002361.txt
+[36mapp_1  |[0m > File exist. Skipping 352947 | ENGELHARD CORP | SC TO-T/A | 2006-02-23 | edgar/data/352947/0001047469-06-002361.txt | edgar/data/352947/ | 0001047469-06-002361.txt
+[36mapp_1  |[0m > File exist. Skipping 789019 | MICROSOFT CORP | 8-K | 2006-03-10 | edgar/data/789019/0001193125-06-050847.txt | edgar/data/789019/ | 0001193125-06-050847.txt
+[36mapp_1  |[0m > File exist. Skipping 790070 | EMC CORP | 8-K | 2006-03-27 | edgar/data/790070/0000950135-06-001820.txt | edgar/data/790070/ | 0000950135-06-001820.txt
+[36mapp_1  |[0m > File exist. Skipping 796343 | ADOBE SYSTEMS INC | 10-K | 2006-02-08 | edgar/data/796343/0001047469-06-001601.txt | edgar/data/796343/ | 0001047469-06-001601.txt
+[36mapp_1  |[0m > Extracting tmp/xbrl/index/2006/QTR2/xbrl.gz complete to tmp/xbrl.idx
+[36mapp_1  |[0m > File exist. Skipping 101829 | UNITED TECHNOLOGIES CORP /DE/ | 8-K | 2006-04-28 | edgar/data/101829/0001193125-06-093152.txt | edgar/data/101829/ | 0001193125-06-093152.txt
+[36mapp_1  |[0m > File exist. Skipping 1069322 | CRYSTAL INTERNATIONAL TRAVEL GROUP, INC. | 8-K | 2006-05-25 | edgar/data/1069322/0001354488-06-000154.txt | edgar/data/1069322/ | 0001354488-06-000154.txt
+[36mapp_1  |[0m > File exist. Skipping 1080224 | EDGAR ONLINE INC | 8-K | 2006-04-20 | edgar/data/1080224/0001193125-06-084490.txt | edgar/data/1080224/ | 0001193125-06-084490.txt
+[36mapp_1  |[0m > File exist. Skipping 108772 | XEROX CORP | 8-K | 2006-04-11 | edgar/data/108772/0001193125-06-077946.txt | edgar/data/108772/ | 0001193125-06-077946.txt
+[36mapp_1  |[0m > File exist. Skipping 108772 | XEROX CORP | 8-K | 2006-05-12 | edgar/data/108772/0001193125-06-110952.txt | edgar/data/108772/ | 0001193125-06-110952.txt
+[36mapp_1  |[0m > File exist. Skipping 1106056 | SATYAM COMPUTER SERVICES LTD | 6-K | 2006-05-04 | edgar/data/1106056/0001145549-06-000604.txt | edgar/data/1106056/ | 0001145549-06-000604.txt
+[36mapp_1  |[0m > File exist. Skipping 1295230 | International Securities Exchange, Inc. | 8-K | 2006-06-02 | edgar/data/1295230/0001193125-06-123686.txt | edgar/data/1295230/ | 0001193125-06-123686.txt
+[36mapp_1  |[0m > File exist. Skipping 14272 | BRISTOL MYERS SQUIBB CO | 8-K | 2006-06-02 | edgar/data/14272/0001193125-06-123671.txt | edgar/data/14272/ | 0001193125-06-123671.txt
+[36mapp_1  |[0m > File exist. Skipping 29669 | RR Donnelley & Sons Co | 8-K | 2006-04-25 | edgar/data/29669/0001193125-06-088071.txt | edgar/data/29669/ | 0001193125-06-088071.txt
+[36mapp_1  |[0m > File exist. Skipping 29669 | RR Donnelley & Sons Co | 8-K | 2006-05-31 | edgar/data/29669/0001193125-06-122012.txt | edgar/data/29669/ | 0001193125-06-122012.txt
+[36mapp_1  |[0m > File exist. Skipping 47710 | HITACHI LTD | 6-K | 2006-05-26 | edgar/data/47710/0001193125-06-119877.txt | edgar/data/47710/ | 0001193125-06-119877.txt
+[36mapp_1  |[0m > File exist. Skipping 66740 | 3M CO | 8-K | 2006-06-29 | edgar/data/66740/0001104659-06-044557.txt | edgar/data/66740/ | 0001104659-06-044557.txt
+[36mapp_1  |[0m > File exist. Skipping 764180 | ALTRIA GROUP, INC. | 8-K | 2006-05-11 | edgar/data/764180/0001157523-06-005057.txt | edgar/data/764180/ | 0001157523-06-005057.txt
+[36mapp_1  |[0m > File exist. Skipping 77476 | PEPSICO INC | 8-K | 2006-05-31 | edgar/data/77476/0001157523-06-005698.txt | edgar/data/77476/ | 0001157523-06-005698.txt
+[36mapp_1  |[0m > File exist. Skipping 789019 | MICROSOFT CORP | 8-K | 2006-06-12 | edgar/data/789019/0001193125-06-128216.txt | edgar/data/789019/ | 0001193125-06-128216.txt
+[36mapp_1  |[0m > File exist. Skipping 790070 | EMC CORP | 8-K | 2006-05-15 | edgar/data/790070/0000950135-06-003497.txt | edgar/data/790070/ | 0000950135-06-003497.txt
+[36mapp_1  |[0m > File exist. Skipping 796343 | ADOBE SYSTEMS INC | 10-Q | 2006-04-12 | edgar/data/796343/0001104659-06-024558.txt | edgar/data/796343/ | 0001104659-06-024558.txt
+[36mapp_1  |[0m > File exist. Skipping 804328 | QUALCOMM INC/DE | 8-K | 2006-06-23 | edgar/data/804328/0000936392-06-000651.txt | edgar/data/804328/ | 0000936392-06-000651.txt
+[36mapp_1  |[0m > File exist. Skipping 8670 | AUTOMATIC DATA PROCESSING INC | 8-K | 2006-05-30 | edgar/data/8670/0000008670-06-000116.txt | edgar/data/8670/ | 0000008670-06-000116.txt
+[36mapp_1  |[0m > File exist. Skipping 908823 | ALLEGIANT ADVANTAGE FUND | N-Q | 2006-05-01 | edgar/data/908823/0001193125-06-095211.txt | edgar/data/908823/ | 0001193125-06-095211.txt
+[36mapp_1  |[0m > Extracting tmp/xbrl/index/2006/QTR3/xbrl.gz complete to tmp/xbrl.idx
+[36mapp_1  |[0m > File exist. Skipping 101829 | UNITED TECHNOLOGIES CORP /DE/ | 8-K | 2006-07-26 | edgar/data/101829/0001193125-06-153573.txt | edgar/data/101829/ | 0001193125-06-153573.txt
+[36mapp_1  |[0m > File exist. Skipping 1067491 | INFOSYS TECHNOLOGIES LTD | 6-K | 2006-08-29 | edgar/data/1067491/0000891618-06-000365.txt | edgar/data/1067491/ | 0000891618-06-000365.txt
+[36mapp_1  |[0m > File exist. Skipping 1067491 | INFOSYS TECHNOLOGIES LTD | 6-K | 2006-08-29 | edgar/data/1067491/0000891618-06-000366.txt | edgar/data/1067491/ | 0000891618-06-000366.txt
+[36mapp_1  |[0m > File exist. Skipping 1080224 | EDGAR ONLINE INC | 8-K | 2006-08-16 | edgar/data/1080224/0001193125-06-174607.txt | edgar/data/1080224/ | 0001193125-06-174607.txt
+[36mapp_1  |[0m > File exist. Skipping 108772 | XEROX CORP | 8-K | 2006-09-08 | edgar/data/108772/0001193125-06-187911.txt | edgar/data/108772/ | 0001193125-06-187911.txt
+[36mapp_1  |[0m > File exist. Skipping 1091530 | XM SATELLITE RADIO HOLDINGS INC | 8-K | 2006-08-04 | edgar/data/1091530/0001193125-06-162546.txt | edgar/data/1091530/ | 0001193125-06-162546.txt
+[36mapp_1  |[0m > File exist. Skipping 1106056 | SATYAM COMPUTER SERVICES LTD | 6-K | 2006-08-16 | edgar/data/1106056/0001145549-06-001193.txt | edgar/data/1106056/ | 0001145549-06-001193.txt
+[36mapp_1  |[0m > File exist. Skipping 1176358 | MDT Funds | 485APOS | 2006-09-27 | edgar/data/1176358/0001318148-06-001376.txt | edgar/data/1176358/ | 0001318148-06-001376.txt
+[36mapp_1  |[0m > File exist. Skipping 1179929 | MOLINA HEALTHCARE INC | 8-K | 2006-09-19 | edgar/data/1179929/0001193125-06-193357.txt | edgar/data/1179929/ | 0001193125-06-193357.txt
+[36mapp_1  |[0m > File exist. Skipping 1292278 | Old Mutual Advisor Funds | 485APOS | 2006-09-15 | edgar/data/1292278/0001292278-06-000052.txt | edgar/data/1292278/ | 0001292278-06-000052.txt
+[36mapp_1  |[0m > File exist. Skipping 1295230 | International Securities Exchange, Inc. | 8-K | 2006-08-18 | edgar/data/1295230/0001193125-06-176173.txt | edgar/data/1295230/ | 0001193125-06-176173.txt
+[36mapp_1  |[0m > File exist. Skipping 14272 | BRISTOL MYERS SQUIBB CO | 8-K | 2006-08-29 | edgar/data/14272/0001193125-06-181130.txt | edgar/data/14272/ | 0001193125-06-181130.txt
+[36mapp_1  |[0m > File exist. Skipping 29669 | RR Donnelley & Sons Co | 8-K | 2006-08-28 | edgar/data/29669/0001193125-06-180499.txt | edgar/data/29669/ | 0001193125-06-180499.txt
+[36mapp_1  |[0m > File exist. Skipping 29915 | DOW CHEMICAL CO /DE/ | 8-K | 2006-09-18 | edgar/data/29915/0001104659-06-061522.txt | edgar/data/29915/ | 0001104659-06-061522.txt
+[36mapp_1  |[0m > File exist. Skipping 29915 | DOW CHEMICAL CO /DE/ | 8-K | 2006-09-25 | edgar/data/29915/0001104659-06-062715.txt | edgar/data/29915/ | 0001104659-06-062715.txt
+[36mapp_1  |[0m > File exist. Skipping 29915 | DOW CHEMICAL CO /DE/ | 8-K | 2006-09-25 | edgar/data/29915/0001104659-06-062716.txt | edgar/data/29915/ | 0001104659-06-062716.txt
+[36mapp_1  |[0m > File exist. Skipping 37996 | FORD MOTOR CO | 8-K | 2006-08-22 | edgar/data/37996/0001157523-06-008665.txt | edgar/data/37996/ | 0001157523-06-008665.txt
+[36mapp_1  |[0m > File exist. Skipping 38009 | FORD MOTOR CREDIT CO | 8-K | 2006-08-22 | edgar/data/38009/0001157523-06-008663.txt | edgar/data/38009/ | 0001157523-06-008663.txt
+[36mapp_1  |[0m > File exist. Skipping 40545 | GENERAL ELECTRIC CO | 8-K | 2006-07-18 | edgar/data/40545/0000040545-06-000023.txt | edgar/data/40545/ | 0000040545-06-000023.txt
+[36mapp_1  |[0m > File exist. Skipping 40545 | GENERAL ELECTRIC CO | 8-K | 2006-09-07 | edgar/data/40545/0000040545-06-000037.txt | edgar/data/40545/ | 0000040545-06-000037.txt
+[36mapp_1  |[0m > File exist. Skipping 66740 | 3M CO | 8-K | 2006-08-29 | edgar/data/66740/0001104659-06-057822.txt | edgar/data/66740/ | 0001104659-06-057822.txt
+[36mapp_1  |[0m > File exist. Skipping 718573 | RADYNE CORP | 8-K | 2006-07-24 | edgar/data/718573/0001193125-06-151510.txt | edgar/data/718573/ | 0001193125-06-151510.txt
+[36mapp_1  |[0m > File exist. Skipping 718573 | RADYNE CORP | 8-K | 2006-08-28 | edgar/data/718573/0001193125-06-180508.txt | edgar/data/718573/ | 0001193125-06-180508.txt
+[36mapp_1  |[0m > File exist. Skipping 764180 | ALTRIA GROUP, INC. | 8-K | 2006-08-16 | edgar/data/764180/0001157523-06-008528.txt | edgar/data/764180/ | 0001157523-06-008528.txt
+[36mapp_1  |[0m > File exist. Skipping 77476 | PEPSICO INC | 8-K | 2006-07-13 | edgar/data/77476/0001157523-06-006827.txt | edgar/data/77476/ | 0001157523-06-006827.txt
+[36mapp_1  |[0m > File exist. Skipping 790070 | EMC CORP | 8-K | 2006-08-24 | edgar/data/790070/0000950135-06-005372.txt | edgar/data/790070/ | 0000950135-06-005372.txt
+[36mapp_1  |[0m > File exist. Skipping 796343 | ADOBE SYSTEMS INC | 10-Q | 2006-07-11 | edgar/data/796343/0001104659-06-046450.txt | edgar/data/796343/ | 0001104659-06-046450.txt
+[36mapp_1  |[0m > File exist. Skipping 8670 | AUTOMATIC DATA PROCESSING INC | 8-K | 2006-09-26 | edgar/data/8670/0000008670-06-000210.txt | edgar/data/8670/ | 0000008670-06-000210.txt
+[36mapp_1  |[0m > File exist. Skipping 933738 | ENGLOBAL CORP | 8-K | 2006-08-28 | edgar/data/933738/0001157523-06-008789.txt | edgar/data/933738/ | 0001157523-06-008789.txt
+[36mapp_1  |[0m > Extracting tmp/xbrl/index/2006/QTR4/xbrl.gz complete to tmp/xbrl.idx
+[36mapp_1  |[0m > File exist. Skipping 101829 | UNITED TECHNOLOGIES CORP /DE/ | 8-K | 2006-10-17 | edgar/data/101829/0001193125-06-208803.txt | edgar/data/101829/ | 0001193125-06-208803.txt
+[36mapp_1  |[0m > File exist. Skipping 101829 | UNITED TECHNOLOGIES CORP /DE/ | 8-K | 2006-12-06 | edgar/data/101829/0001193125-06-247769.txt | edgar/data/101829/ | 0001193125-06-247769.txt
+[36mapp_1  |[0m > File exist. Skipping 1024446 | NET SERVICOS DE COMUNICACAO S A | 6-K | 2006-12-29 | edgar/data/1024446/0001292814-06-003090.txt | edgar/data/1024446/ | 0001292814-06-003090.txt
+[36mapp_1  |[0m > File exist. Skipping 1024446 | NET SERVICOS DE COMUNICACAO S A | 6-K | 2006-12-29 | edgar/data/1024446/0001292814-06-003092.txt | edgar/data/1024446/ | 0001292814-06-003092.txt
+[36mapp_1  |[0m > File exist. Skipping 1024446 | NET SERVICOS DE COMUNICACAO S A | 6-K | 2006-12-29 | edgar/data/1024446/0001292814-06-003094.txt | edgar/data/1024446/ | 0001292814-06-003094.txt
+[36mapp_1  |[0m > File exist. Skipping 1024446 | NET SERVICOS DE COMUNICACAO S A | 6-K | 2006-12-29 | edgar/data/1024446/0001292814-06-003096.txt | edgar/data/1024446/ | 0001292814-06-003096.txt
+[36mapp_1  |[0m > File exist. Skipping 1040612 | MEMBERS MUTUAL FUNDS | 485APOS | 2006-12-08 | edgar/data/1040612/0000950137-06-013381.txt | edgar/data/1040612/ | 0000950137-06-013381.txt
+[36mapp_1  |[0m > File exist. Skipping 1080224 | EDGAR ONLINE INC | 8-K | 2006-11-16 | edgar/data/1080224/0001193125-06-236937.txt | edgar/data/1080224/ | 0001193125-06-236937.txt
+[36mapp_1  |[0m > File exist. Skipping 108772 | XEROX CORP | 8-K | 2006-11-09 | edgar/data/108772/0001193125-06-230389.txt | edgar/data/108772/ | 0001193125-06-230389.txt
+[36mapp_1  |[0m > File exist. Skipping 1091530 | XM SATELLITE RADIO HOLDINGS INC | 8-K | 2006-11-09 | edgar/data/1091530/0001193125-06-230580.txt | edgar/data/1091530/ | 0001193125-06-230580.txt
+[36mapp_1  |[0m > File exist. Skipping 1106056 | SATYAM COMPUTER SERVICES LTD | 6-K | 2006-11-03 | edgar/data/1106056/0001145549-06-001551.txt | edgar/data/1106056/ | 0001145549-06-001551.txt
+[36mapp_1  |[0m > File exist. Skipping 1119639 | BRAZILIAN PETROLEUM CORP | 6-K | 2006-12-29 | edgar/data/1119639/0001292814-06-003102.txt | edgar/data/1119639/ | 0001292814-06-003102.txt
+[36mapp_1  |[0m > File exist. Skipping 1119639 | BRAZILIAN PETROLEUM CORP | 6-K | 2006-12-29 | edgar/data/1119639/0001292814-06-003104.txt | edgar/data/1119639/ | 0001292814-06-003104.txt
+[36mapp_1  |[0m > File exist. Skipping 1119639 | BRAZILIAN PETROLEUM CORP | 6-K | 2006-12-29 | edgar/data/1119639/0001292814-06-003106.txt | edgar/data/1119639/ | 0001292814-06-003106.txt
+[36mapp_1  |[0m > File exist. Skipping 1119639 | BRAZILIAN PETROLEUM CORP | 6-K | 2006-12-29 | edgar/data/1119639/0001292814-06-003108.txt | edgar/data/1119639/ | 0001292814-06-003108.txt
+[36mapp_1  |[0m > File exist. Skipping 1166691 | COMCAST CORP | 8-K | 2006-12-11 | edgar/data/1166691/0001193125-06-250317.txt | edgar/data/1166691/ | 0001193125-06-250317.txt
+[36mapp_1  |[0m > File exist. Skipping 1166691 | COMCAST CORP | 8-K | 2006-12-11 | edgar/data/1166691/0001193125-06-250372.txt | edgar/data/1166691/ | 0001193125-06-250372.txt
+[36mapp_1  |[0m > File exist. Skipping 1166691 | COMCAST CORP | 8-K | 2006-12-11 | edgar/data/1166691/0001193125-06-250375.txt | edgar/data/1166691/ | 0001193125-06-250375.txt
+[36mapp_1  |[0m > File exist. Skipping 1265551 | FIDELITY RUTLAND SQUARE TRUST | 485BPOS | 2006-12-19 | edgar/data/1265551/0001265551-06-000015.txt | edgar/data/1265551/ | 0001265551-06-000015.txt
+[36mapp_1  |[0m > File exist. Skipping 1292278 | Old Mutual Advisor Funds | N-CSRS/A | 2006-10-20 | edgar/data/1292278/0001292278-06-000063.txt | edgar/data/1292278/ | 0001292278-06-000063.txt
+[36mapp_1  |[0m > File exist. Skipping 1295230 | International Securities Exchange Holdings, Inc. | 8-K | 2006-11-15 | edgar/data/1295230/0001193125-06-235806.txt | edgar/data/1295230/ | 0001193125-06-235806.txt
+[36mapp_1  |[0m > File exist. Skipping 1311261 | BB&T Variable Insurance Funds | N-14/A | 2006-12-01 | edgar/data/1311261/0000950152-06-009834.txt | edgar/data/1311261/ | 0000950152-06-009834.txt
+[36mapp_1  |[0m > File exist. Skipping 1311261 | BB&T Variable Insurance Funds | N-14 | 2006-11-15 | edgar/data/1311261/0000950152-06-009451.txt | edgar/data/1311261/ | 0000950152-06-009451.txt
+[36mapp_1  |[0m > File exist. Skipping 1321741 | GLADSTONE INVESTMENT CORPORATION\DE | N-2 | 2006-10-16 | edgar/data/1321741/0000950133-06-004444.txt | edgar/data/1321741/ | 0000950133-06-004444.txt
+[36mapp_1  |[0m > File exist. Skipping 13610 | BOWNE & CO INC | 8-K | 2006-10-31 | edgar/data/13610/0001113672-06-000102.txt | edgar/data/13610/ | 0001113672-06-000102.txt
+[36mapp_1  |[0m > File exist. Skipping 13610 | BOWNE & CO INC | 8-K | 2006-11-29 | edgar/data/13610/0000950123-06-014667.txt | edgar/data/13610/ | 0000950123-06-014667.txt
+[36mapp_1  |[0m > File exist. Skipping 14272 | BRISTOL MYERS SQUIBB CO | 8-K | 2006-11-27 | edgar/data/14272/0001193125-06-242048.txt | edgar/data/14272/ | 0001193125-06-242048.txt
+[36mapp_1  |[0m > File exist. Skipping 29669 | RR Donnelley & Sons Co | 8-K | 2006-12-07 | edgar/data/29669/0001193125-06-248580.txt | edgar/data/29669/ | 0001193125-06-248580.txt
+[36mapp_1  |[0m > File exist. Skipping 29915 | DOW CHEMICAL CO /DE/ | 10-Q | 2006-10-31 | edgar/data/29915/0001104659-06-069814.txt | edgar/data/29915/ | 0001104659-06-069814.txt
+[36mapp_1  |[0m > File exist. Skipping 35333 | FIDELITY SYSTEMATIC INVESTMENT PLANS | 485APOS | 2006-11-30 | edgar/data/35333/0000035333-06-000006.txt | edgar/data/35333/ | 0000035333-06-000006.txt
+[36mapp_1  |[0m > File exist. Skipping 40545 | GENERAL ELECTRIC CO | 8-K | 2006-11-16 | edgar/data/40545/0000040545-06-000055.txt | edgar/data/40545/ | 0000040545-06-000055.txt
+[36mapp_1  |[0m > File exist. Skipping 66740 | 3M CO | 8-K | 2006-11-15 | edgar/data/66740/0001104659-06-075454.txt | edgar/data/66740/ | 0001104659-06-075454.txt
+[36mapp_1  |[0m > File exist. Skipping 718573 | RADYNE CORP | 10-Q | 2006-11-08 | edgar/data/718573/0001193125-06-228444.txt | edgar/data/718573/ | 0001193125-06-228444.txt
+[36mapp_1  |[0m > File exist. Skipping 722575 | BBH TRUST | 485APOS | 2006-10-20 | edgar/data/722575/0001318148-06-001517.txt | edgar/data/722575/ | 0001318148-06-001517.txt
+[36mapp_1  |[0m > File exist. Skipping 751656 | MFS MUNICIPAL SERIES TRUST | N-14 | 2006-12-18 | edgar/data/751656/0000950156-06-000631.txt | edgar/data/751656/ | 0000950156-06-000631.txt
+[36mapp_1  |[0m > File exist. Skipping 754510 | FIDELITY SECURITIES FUND | 485APOS | 2006-11-14 | edgar/data/754510/0000754510-06-000057.txt | edgar/data/754510/ | 0000754510-06-000057.txt
+[36mapp_1  |[0m > File exist. Skipping 764180 | ALTRIA GROUP, INC. | 8-K | 2006-12-07 | edgar/data/764180/0001157523-06-011973.txt | edgar/data/764180/ | 0001157523-06-011973.txt
+[36mapp_1  |[0m > File exist. Skipping 77476 | PEPSICO INC | 8-K | 2006-10-12 | edgar/data/77476/0001157523-06-009824.txt | edgar/data/77476/ | 0001157523-06-009824.txt
+[36mapp_1  |[0m > File exist. Skipping 78003 | PFIZER INC | 8-K | 2006-11-30 | edgar/data/78003/0000078003-06-000317.txt | edgar/data/78003/ | 0000078003-06-000317.txt
+[36mapp_1  |[0m > File exist. Skipping 78003 | PFIZER INC | 8-K | 2006-11-30 | edgar/data/78003/0000078003-06-000319.txt | edgar/data/78003/ | 0000078003-06-000319.txt
+[36mapp_1  |[0m > File exist. Skipping 78003 | PFIZER INC | 8-K | 2006-12-11 | edgar/data/78003/0000078003-06-000337.txt | edgar/data/78003/ | 0000078003-06-000337.txt
+[36mapp_1  |[0m > File exist. Skipping 789019 | MICROSOFT CORP | 8-K | 2006-10-10 | edgar/data/789019/0001193125-06-205609.txt | edgar/data/789019/ | 0001193125-06-205609.txt
+[36mapp_1  |[0m > File exist. Skipping 789019 | MICROSOFT CORP | 8-K | 2006-11-14 | edgar/data/789019/0001193125-06-235137.txt | edgar/data/789019/ | 0001193125-06-235137.txt
+[36mapp_1  |[0m > File exist. Skipping 790070 | EMC CORP | 8-K | 2006-12-13 | edgar/data/790070/0000950135-06-007402.txt | edgar/data/790070/ | 0000950135-06-007402.txt
+[36mapp_1  |[0m > File exist. Skipping 790558 | HARTFORD HLS SERIES FUND II INC | N-14 | 2006-10-31 | edgar/data/790558/0000930413-06-007575.txt | edgar/data/790558/ | 0000930413-06-007575.txt
+[36mapp_1  |[0m > File exist. Skipping 790558 | HARTFORD HLS SERIES FUND II INC | N-14 | 2006-10-31 | edgar/data/790558/0000930413-06-007576.txt | edgar/data/790558/ | 0000930413-06-007576.txt
+[36mapp_1  |[0m > File exist. Skipping 796343 | ADOBE SYSTEMS INC | 10-Q | 2006-10-11 | edgar/data/796343/0001104659-06-066129.txt | edgar/data/796343/ | 0001104659-06-066129.txt
+[36mapp_1  |[0m > File exist. Skipping 797871 | SOUTH FINANCIAL GROUP INC | 8-K | 2006-12-29 | edgar/data/797871/0001308617-06-000048.txt | edgar/data/797871/ | 0001308617-06-000048.txt
+[36mapp_1  |[0m > File exist. Skipping 797871 | SOUTH FINANCIAL GROUP INC | 8-K | 2006-12-29 | edgar/data/797871/0001308617-06-000049.txt | edgar/data/797871/ | 0001308617-06-000049.txt
+[36mapp_1  |[0m > File exist. Skipping 797871 | SOUTH FINANCIAL GROUP INC | 8-K | 2006-12-29 | edgar/data/797871/0001308617-06-000050.txt | edgar/data/797871/ | 0001308617-06-000050.txt
+[36mapp_1  |[0m > File exist. Skipping 799127 | VANGUARD QUANTITATIVE FUNDS / | 485APOS | 2006-11-01 | edgar/data/799127/0000932471-06-001644.txt | edgar/data/799127/ | 0000932471-06-001644.txt
+[36mapp_1  |[0m > File exist. Skipping 857489 | VANGUARD INTERNATIONAL EQUITY INDEX FUNDS | 485APOS | 2006-12-15 | edgar/data/857489/0000932471-06-001746.txt | edgar/data/857489/ | 0000932471-06-001746.txt
+[36mapp_1  |[0m > File exist. Skipping 8670 | AUTOMATIC DATA PROCESSING INC | 8-K | 2006-11-30 | edgar/data/8670/0000008670-06-000306.txt | edgar/data/8670/ | 0000008670-06-000306.txt
+[36mapp_1  |[0m > File exist. Skipping 887318 | BNY HAMILTON FUNDS INC | 485APOS | 2006-12-11 | edgar/data/887318/0001193125-06-250646.txt | edgar/data/887318/ | 0001193125-06-250646.txt
+[36mapp_1  |[0m > File exist. Skipping 887318 | BNY HAMILTON FUNDS INC | 485BPOS | 2006-12-29 | edgar/data/887318/0001193125-06-261722.txt | edgar/data/887318/ | 0001193125-06-261722.txt
+[36mapp_1  |[0m > File exist. Skipping 889188 | Forward Funds | 485APOS | 2006-10-13 | edgar/data/889188/0001193125-06-207507.txt | edgar/data/889188/ | 0001193125-06-207507.txt
+[36mapp_1  |[0m > File exist. Skipping 933738 | ENGLOBAL CORP | 8-K | 2006-11-15 | edgar/data/933738/0001157523-06-011386.txt | edgar/data/933738/ | 0001157523-06-011386.txt
+[36mapp_1  |[0m > File exist. Skipping 936468 | LOCKHEED MARTIN CORP | 8-K | 2006-10-31 | edgar/data/936468/0001193125-06-219311.txt | edgar/data/936468/ | 0001193125-06-219311.txt
+[36mapp_1  |[0m > Extracting tmp/xbrl/index/2007/QTR1/xbrl.gz complete to tmp/xbrl.idx
+[36mapp_1  |[0m > File exist. Skipping 101829 | UNITED TECHNOLOGIES CORP /DE/ | 8-K | 2007-01-23 | edgar/data/101829/0001193125-07-010498.txt | edgar/data/101829/ | 0001193125-07-010498.txt
+[36mapp_1  |[0m > File exist. Skipping 108772 | XEROX CORP | 8-K | 2007-02-23 | edgar/data/108772/0001193125-07-038429.txt | edgar/data/108772/ | 0001193125-07-038429.txt
+[36mapp_1  |[0m > File exist. Skipping 1166691 | COMCAST CORP | 8-K | 2007-03-14 | edgar/data/1166691/0001193125-07-054365.txt | edgar/data/1166691/ | 0001193125-07-054365.txt
+[36mapp_1  |[0m > File exist. Skipping 1267994 | ROBECO SAGE TRITON FUND LLC | N-2 | 2007-03-06 | edgar/data/1267994/0000902664-07-001145.txt | edgar/data/1267994/ | 0000902664-07-001145.txt
+[36mapp_1  |[0m > File exist. Skipping 1295230 | International Securities Exchange Holdings, Inc. | 8-K | 2007-03-28 | edgar/data/1295230/0001193125-07-066641.txt | edgar/data/1295230/ | 0001193125-07-066641.txt
+[36mapp_1  |[0m > File exist. Skipping 1324443 | American Independence Funds Trust | 485APOS | 2007-01-16 | edgar/data/1324443/0000950123-07-000431.txt | edgar/data/1324443/ | 0000950123-07-000431.txt
+[36mapp_1  |[0m > File exist. Skipping 1385255 | XTF Investors Trust | N-1A/A | 2007-03-09 | edgar/data/1385255/0000910472-07-000086.txt | edgar/data/1385255/ | 0000910472-07-000086.txt
+[36mapp_1  |[0m > File exist. Skipping 1385255 | XTF Investors Trust | N-1A/A | 2007-03-26 | edgar/data/1385255/0000910472-07-000103.txt | edgar/data/1385255/ | 0000910472-07-000103.txt
+[36mapp_1  |[0m > File exist. Skipping 1391975 | EXCELSIOR DIRECTIONAL HEDGE FUND OF FUNDS (TE) LLC | N-2 | 2007-03-15 | edgar/data/1391975/0000902664-07-001232.txt | edgar/data/1391975/ | 0000902664-07-001232.txt
+[36mapp_1  |[0m > File exist. Skipping 1392173 | YYY TRUST | N-1A | 2007-03-19 | edgar/data/1392173/0000897069-07-000803.txt | edgar/data/1392173/ | 0000897069-07-000803.txt
+[36mapp_1  |[0m > File exist. Skipping 1392994 | FIRST TRUST/GALLATIN SPECIALTY FINANCE & FINANCIAL OPPORTUNITIES FUND | N-2 | 2007-03-21 | edgar/data/1392994/0000875626-07-000689.txt | edgar/data/1392994/ | 0000875626-07-000689.txt
+[36mapp_1  |[0m > File exist. Skipping 225843 | SENTINEL GROUP FUNDS INC | N-14/A | 2007-01-26 | edgar/data/225843/0000909012-07-000114.txt | edgar/data/225843/ | 0000909012-07-000114.txt
+[36mapp_1  |[0m > File exist. Skipping 29915 | DOW CHEMICAL CO /DE/ | 8-K | 2007-02-20 | edgar/data/29915/0001104659-07-012330.txt | edgar/data/29915/ | 0001104659-07-012330.txt
+[36mapp_1  |[0m > File exist. Skipping 35333 | FIDELITY SYSTEMATIC INVESTMENT PLANS | 485BPOS | 2007-01-29 | edgar/data/35333/0001022695-07-000020.txt | edgar/data/35333/ | 0001022695-07-000020.txt
+[36mapp_1  |[0m > File exist. Skipping 37996 | FORD MOTOR CO | 8-K | 2007-02-14 | edgar/data/37996/0001157523-07-001516.txt | edgar/data/37996/ | 0001157523-07-001516.txt
+[36mapp_1  |[0m > File exist. Skipping 37996 | FORD MOTOR CO | 8-K | 2007-02-14 | edgar/data/37996/0001157523-07-001517.txt | edgar/data/37996/ | 0001157523-07-001517.txt
+[36mapp_1  |[0m > File exist. Skipping 38009 | FORD MOTOR CREDIT CO | 8-K | 2007-02-14 | edgar/data/38009/0001157523-07-001519.txt | edgar/data/38009/ | 0001157523-07-001519.txt
+[36mapp_1  |[0m > File exist. Skipping 38009 | FORD MOTOR CREDIT CO | 8-K | 2007-02-14 | edgar/data/38009/0001157523-07-001520.txt | edgar/data/38009/ | 0001157523-07-001520.txt
+[36mapp_1  |[0m > File exist. Skipping 40545 | GENERAL ELECTRIC CO | 8-K | 2007-03-29 | edgar/data/40545/0000040545-07-000018.txt | edgar/data/40545/ | 0000040545-07-000018.txt
+[36mapp_1  |[0m > File exist. Skipping 49905 | HARTFORD MUTUAL FUNDS II INC | 485APOS | 2007-03-15 | edgar/data/49905/0000950135-07-001660.txt | edgar/data/49905/ | 0000950135-07-001660.txt
+[36mapp_1  |[0m > File exist. Skipping 63090 | MASSACHUSETTS INVESTORS GROWTH STOCK FUND | N-14 | 2007-03-08 | edgar/data/63090/0001104659-07-017434.txt | edgar/data/63090/ | 0001104659-07-017434.txt
+[36mapp_1  |[0m > File exist. Skipping 65433 | MEXICO FUND INC | N-2/A | 2007-03-12 | edgar/data/65433/0001193125-07-052350.txt | edgar/data/65433/ | 0001193125-07-052350.txt
+[36mapp_1  |[0m > File exist. Skipping 65433 | MEXICO FUND INC | N-2/A | 2007-03-13 | edgar/data/65433/0001193125-07-053177.txt | edgar/data/65433/ | 0001193125-07-053177.txt
+[36mapp_1  |[0m > File exist. Skipping 68138 | VANGUARD MORGAN GROWTH FUND | 485APOS | 2007-01-08 | edgar/data/68138/0000932471-07-000014.txt | edgar/data/68138/ | 0000932471-07-000014.txt
+[36mapp_1  |[0m > File exist. Skipping 68138 | VANGUARD MORGAN GROWTH FUND | 485APOS | 2007-01-25 | edgar/data/68138/0000932471-07-000055.txt | edgar/data/68138/ | 0000932471-07-000055.txt
+[36mapp_1  |[0m > File exist. Skipping 718573 | RADYNE CORP | 8-K | 2007-03-13 | edgar/data/718573/0001193125-07-053216.txt | edgar/data/718573/ | 0001193125-07-053216.txt
+[36mapp_1  |[0m > File exist. Skipping 754510 | FIDELITY SECURITIES FUND | 485BPOS | 2007-01-26 | edgar/data/754510/0000754510-07-000002.txt | edgar/data/754510/ | 0000754510-07-000002.txt
+[36mapp_1  |[0m > File exist. Skipping 754510 | FIDELITY SECURITIES FUND | 485BPOS | 2007-01-29 | edgar/data/754510/0000754510-07-000003.txt | edgar/data/754510/ | 0000754510-07-000003.txt
+[36mapp_1  |[0m > File exist. Skipping 764180 | ALTRIA GROUP, INC. | 8-K | 2007-03-23 | edgar/data/764180/0001157523-07-002946.txt | edgar/data/764180/ | 0001157523-07-002946.txt
+[36mapp_1  |[0m > File exist. Skipping 77476 | PEPSICO INC | 8-K | 2007-02-21 | edgar/data/77476/0001157523-07-001839.txt | edgar/data/77476/ | 0001157523-07-001839.txt
+[36mapp_1  |[0m > File exist. Skipping 789019 | MICROSOFT CORP | 8-K | 2007-02-27 | edgar/data/789019/0001193125-07-039978.txt | edgar/data/789019/ | 0001193125-07-039978.txt
+[36mapp_1  |[0m > File exist. Skipping 796343 | ADOBE SYSTEMS INC | 10-K/A | 2007-02-06 | edgar/data/796343/0001104659-07-007412.txt | edgar/data/796343/ | 0001104659-07-007412.txt
+[36mapp_1  |[0m > File exist. Skipping 796343 | ADOBE SYSTEMS INC | 10-K | 2007-02-05 | edgar/data/796343/0001104659-07-007286.txt | edgar/data/796343/ | 0001104659-07-007286.txt
+[36mapp_1  |[0m > File exist. Skipping 813623 | SWISS HELVETIA FUND, INC. | N-2 | 2007-03-29 | edgar/data/813623/0000899681-07-000265.txt | edgar/data/813623/ | 0000899681-07-000265.txt
+[36mapp_1  |[0m > File exist. Skipping 8670 | AUTOMATIC DATA PROCESSING INC | 8-K | 2007-02-20 | edgar/data/8670/0000008670-07-000110.txt | edgar/data/8670/ | 0000008670-07-000110.txt
+[36mapp_1  |[0m > File exist. Skipping 936468 | LOCKHEED MARTIN CORP | 8-K | 2007-03-26 | edgar/data/936468/0001193125-07-063810.txt | edgar/data/936468/ | 0001193125-07-063810.txt
+[36mapp_1  |[0m > Extracting tmp/xbrl/index/2007/QTR2/xbrl.gz complete to tmp/xbrl.idx
+[36mapp_1  |[0m > File exist. Skipping 101829 | UNITED TECHNOLOGIES CORP /DE/ | 8-K | 2007-04-18 | edgar/data/101829/0001193125-07-083382.txt | edgar/data/101829/ | 0001193125-07-083382.txt
+[36mapp_1  |[0m > File exist. Skipping 1045309 | W R GRACE & CO | 8-K | 2007-06-18 | edgar/data/1045309/0001104659-07-048337.txt | edgar/data/1045309/ | 0001104659-07-048337.txt
+[36mapp_1  |[0m > File exist. Skipping 1067491 | INFOSYS TECHNOLOGIES LTD | 6-K | 2007-06-14 | edgar/data/1067491/0000891618-07-000366.txt | edgar/data/1067491/ | 0000891618-07-000366.txt
+[36mapp_1  |[0m > File exist. Skipping 1067491 | INFOSYS TECHNOLOGIES LTD | 6-K | 2007-06-15 | edgar/data/1067491/0000891618-07-000375.txt | edgar/data/1067491/ | 0000891618-07-000375.txt
+[36mapp_1  |[0m > File exist. Skipping 1067491 | INFOSYS TECHNOLOGIES LTD | 6-K | 2007-06-18 | edgar/data/1067491/0000891618-07-000378.txt | edgar/data/1067491/ | 0000891618-07-000378.txt
+[36mapp_1  |[0m > File exist. Skipping 108772 | XEROX CORP | 8-K | 2007-05-08 | edgar/data/108772/0001193125-07-104590.txt | edgar/data/108772/ | 0001193125-07-104590.txt
+[36mapp_1  |[0m > File exist. Skipping 1109357 | EXELON CORP | 8-K | 2007-06-27 | edgar/data/1109357/0001193125-07-144415.txt | edgar/data/1109357/ | 0001193125-07-144415.txt
+[36mapp_1  |[0m > File exist. Skipping 1160330 | BANK BRADESCO | 6-K | 2007-05-17 | edgar/data/1160330/0001292814-07-001494.txt | edgar/data/1160330/ | 0001292814-07-001494.txt
+[36mapp_1  |[0m > File exist. Skipping 1163302 | UNITED STATES STEEL CORP | 8-K | 2007-06-19 | edgar/data/1163302/0001193125-07-138217.txt | edgar/data/1163302/ | 0001193125-07-138217.txt
+[36mapp_1  |[0m > File exist. Skipping 1166691 | COMCAST CORP | 8-K | 2007-06-21 | edgar/data/1166691/0001193125-07-140058.txt | edgar/data/1166691/ | 0001193125-07-140058.txt
+[36mapp_1  |[0m > File exist. Skipping 1168165 | EXELON GENERATION CO LLC | 8-K | 2007-06-27 | edgar/data/1168165/0001193125-07-144416.txt | edgar/data/1168165/ | 0001193125-07-144416.txt
+[36mapp_1  |[0m > File exist. Skipping 1267994 | ROBECO SAGE TRITON FUND LLC | N-2/A | 2007-04-12 | edgar/data/1267994/0000902664-07-001450.txt | edgar/data/1267994/ | 0000902664-07-001450.txt
+[36mapp_1  |[0m > File exist. Skipping 1280784 | HERCULES TECHNOLOGY GROWTH CAPITAL INC | N-2/A | 2007-05-15 | edgar/data/1280784/0001193125-07-115208.txt | edgar/data/1280784/ | 0001193125-07-115208.txt
+[36mapp_1  |[0m > File exist. Skipping 1327228 | Alternative Investment Partners Absolute Return Fund | N-2/A | 2007-04-30 | edgar/data/1327228/0001193125-07-095924.txt | edgar/data/1327228/ | 0001193125-07-095924.txt
+[36mapp_1  |[0m > File exist. Skipping 13610 | BOWNE & CO INC | 8-K | 2007-05-02 | edgar/data/13610/0000950123-07-006560.txt | edgar/data/13610/ | 0000950123-07-006560.txt
+[36mapp_1  |[0m > File exist. Skipping 13610 | BOWNE & CO INC | 8-K | 2007-06-06 | edgar/data/13610/0000950123-07-008358.txt | edgar/data/13610/ | 0000950123-07-008358.txt
+[36mapp_1  |[0m > File exist. Skipping 1392994 | FIRST TRUST/GALLATIN SPECIALTY FINANCE & FINANCIAL OPPORTUNITIES FUND | N-2/A | 2007-04-27 | edgar/data/1392994/0000875626-07-001019.txt | edgar/data/1392994/ | 0000875626-07-001019.txt
+[36mapp_1  |[0m > File exist. Skipping 1392994 | FIRST TRUST/GALLATIN SPECIALTY FINANCE & FINANCIAL OPPORTUNITIES FUND | N-2/A | 2007-05-24 | edgar/data/1392994/0000875626-07-001172.txt | edgar/data/1392994/ | 0000875626-07-001172.txt
+[36mapp_1  |[0m > File exist. Skipping 1396603 | X Exchange-Traded Funds, Inc. | N-1A | 2007-04-17 | edgar/data/1396603/0001116679-07-001230.txt | edgar/data/1396603/ | 0001116679-07-001230.txt
+[36mapp_1  |[0m > File exist. Skipping 1400766 | Global Real Estate Fund of Funds I-A, L.P. | N-2 | 2007-05-30 | edgar/data/1400766/0001341004-07-001721.txt | edgar/data/1400766/ | 0001341004-07-001721.txt
+[36mapp_1  |[0m > File exist. Skipping 14272 | BRISTOL MYERS SQUIBB CO | 8-K | 2007-04-06 | edgar/data/14272/0001193125-07-076258.txt | edgar/data/14272/ | 0001193125-07-076258.txt
+[36mapp_1  |[0m > File exist. Skipping 22606 | COMMONWEALTH EDISON CO | 8-K | 2007-06-27 | edgar/data/22606/0001193125-07-144417.txt | edgar/data/22606/ | 0001193125-07-144417.txt
+[36mapp_1  |[0m > File exist. Skipping 29669 | RR Donnelley & Sons Co | 8-K | 2007-04-05 | edgar/data/29669/0001193125-07-075622.txt | edgar/data/29669/ | 0001193125-07-075622.txt
+[36mapp_1  |[0m > File exist. Skipping 29669 | RR Donnelley & Sons Co | 8-K | 2007-05-30 | edgar/data/29669/0001193125-07-125993.txt | edgar/data/29669/ | 0001193125-07-125993.txt
+[36mapp_1  |[0m > File exist. Skipping 29915 | DOW CHEMICAL CO /DE/ | 10-Q | 2007-05-01 | edgar/data/29915/0001104659-07-034011.txt | edgar/data/29915/ | 0001104659-07-034011.txt
+[36mapp_1  |[0m > File exist. Skipping 37996 | FORD MOTOR CO | 8-K | 2007-04-04 | edgar/data/37996/0001157523-07-003289.txt | edgar/data/37996/ | 0001157523-07-003289.txt
+[36mapp_1  |[0m > File exist. Skipping 37996 | FORD MOTOR CO | 8-K | 2007-06-14 | edgar/data/37996/0001157523-07-006103.txt | edgar/data/37996/ | 0001157523-07-006103.txt
+[36mapp_1  |[0m > File exist. Skipping 38009 | FORD MOTOR CREDIT CO LLC | 8-K | 2007-05-25 | edgar/data/38009/0001157523-07-005623.txt | edgar/data/38009/ | 0001157523-07-005623.txt
+[36mapp_1  |[0m > File exist. Skipping 40545 | GENERAL ELECTRIC CO | 8-K | 2007-06-04 | edgar/data/40545/0000040545-07-000032.txt | edgar/data/40545/ | 0000040545-07-000032.txt
+[36mapp_1  |[0m > File exist. Skipping 49905 | HARTFORD MUTUAL FUNDS II INC | 485BPOS | 2007-05-30 | edgar/data/49905/0000950135-07-003437.txt | edgar/data/49905/ | 0000950135-07-003437.txt
+[36mapp_1  |[0m > File exist. Skipping 66740 | 3M CO | 8-K | 2007-05-16 | edgar/data/66740/0001104659-07-040561.txt | edgar/data/66740/ | 0001104659-07-040561.txt
+[36mapp_1  |[0m > File exist. Skipping 716792 | FIRST INVESTORS TAX EXEMPT FUNDS | N-14 | 2007-06-15 | edgar/data/716792/0000898432-07-000488.txt | edgar/data/716792/ | 0000898432-07-000488.txt
+[36mapp_1  |[0m > File exist. Skipping 718573 | RADYNE CORP | 10-Q | 2007-05-02 | edgar/data/718573/0001193125-07-099689.txt | edgar/data/718573/ | 0001193125-07-099689.txt
+[36mapp_1  |[0m > Downloaded 764180 | ALTRIA GROUP, INC. | 8-K | 2007-05-15 | edgar/data/764180/0001157523-07-005225.txt | edgar/data/764180/ | 0001157523-07-005225.txt
+[36mapp_1  |[0m > Compressing tmp/xbrl/actual/edgar/data/764180/0001157523-07-005225.txt complete to tmp/xbrl/actual/edgar/data/764180/0001157523-07-005225.gz
+[36mapp_1  |[0m > Downloaded 773910 | ANADARKO PETROLEUM CORP | 8-K | 2007-05-08 | edgar/data/773910/0001193125-07-104630.txt | edgar/data/773910/ | 0001193125-07-104630.txt
+[36mapp_1  |[0m > Compressing tmp/xbrl/actual/edgar/data/773910/0001193125-07-104630.txt complete to tmp/xbrl/actual/edgar/data/773910/0001193125-07-104630.gz
+[36mapp_1  |[0m > Downloaded 77476 | PEPSICO INC | 8-K | 2007-04-25 | edgar/data/77476/0001157523-07-004048.txt | edgar/data/77476/ | 0001157523-07-004048.txt
+[36mapp_1  |[0m > Compressing tmp/xbrl/actual/edgar/data/77476/0001157523-07-004048.txt complete to tmp/xbrl/actual/edgar/data/77476/0001157523-07-004048.gz
+Gracefully stopping... (press Ctrl+C again to force)

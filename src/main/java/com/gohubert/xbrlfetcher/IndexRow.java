@@ -1,5 +1,8 @@
 package com.gohubert.xbrlfetcher;
 
+// import java.nio.file.Path;
+// import java.nio.file.Paths;
+
 public class IndexRow {
   private String CIK;
   private String companyName;
@@ -53,6 +56,7 @@ public class IndexRow {
   }
 
   // Factory that returns a IndexRow.
+  // TODO: Figure out if you want a path object instead of strings here.
   public static IndexRow create(String row) {
     // pipe char need to be escaped
     String[] cols = row.split("\\|");

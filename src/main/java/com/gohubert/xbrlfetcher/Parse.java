@@ -5,6 +5,8 @@ import java.io.BufferedReader;
 import java.io.FileNotFoundException;
 import java.io.FileReader;
 import java.io.IOException;
+import java.nio.file.Path;
+// import java.nio.file.Paths;
 
 public class Parse {
   /**
@@ -14,11 +16,11 @@ public class Parse {
    * @param path - Path of the idx file.
    * @return - Array of IndexRow items.
    */
-  public static ArrayList<IndexRow> parseIndex(String path) {
+  public static ArrayList<IndexRow> parseIndex(Path path) {
     ArrayList<IndexRow> res = new ArrayList<>();
 
     try {
-      BufferedReader reader = new BufferedReader(new FileReader(path));
+      BufferedReader reader = new BufferedReader(new FileReader(path.toString()));
       String row = "";
       while ((row = reader.readLine()) != null) {
         IndexRow curRow = IndexRow.create(row);
