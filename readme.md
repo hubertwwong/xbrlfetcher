@@ -4,7 +4,7 @@ Fetch xbrl files from the SEC.
 
 
 
-## What the program does.
+## What the program does
 
 1. Grabs all index files which are gzipped.
 2. Unzippes each gzip files read through each index file and grabs the xbrl files.
@@ -14,6 +14,8 @@ Fetch xbrl files from the SEC.
 
 
 ## How to run
+
+If you have docker compose
 
 ```
 docker-compose up
@@ -84,7 +86,6 @@ Zip file name in edgar for the index files.
 
 
 
-
 ## TODO
 
 Root permission of the output files in docker
@@ -95,6 +96,11 @@ unit testing
 
 better documentation
 
+
+
+## License
+
+I just put it under gpl3.0.
 
 
 ## Links
