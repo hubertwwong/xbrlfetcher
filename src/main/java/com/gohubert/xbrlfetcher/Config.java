@@ -2,6 +2,7 @@ package com.gohubert.xbrlfetcher;
 
 import java.io.FileInputStream;
 import java.io.InputStream;
+import java.io.IOException;
 import java.util.Properties;
  
 public class Config
@@ -9,13 +10,17 @@ public class Config
   Properties configFile;
 
   public Config() {
+    InputStream is = null;
+    InputStream userIS = null;
     configFile = new java.util.Properties();
+    
     try {
-      InputStream is = new FileInputStream("./default.cfg");
+      is = new FileInputStream("./default.cfg");
+      userIS = null;
 
       // try to load user config.
       try {
-        InputStream userIS = new FileInputStream("./user.cfg");
+        userIS = new FileInputStream("./user.cfg");
         if (userIS != null) {
           is = userIS;
           System.out.println("User config found");
@@ -25,9 +30,27 @@ public class Config
       }
 
       configFile.load(is);
-      is.close();
     } catch(Exception eta) {
       eta.printStackTrace();
+    }
+    
+    // Close connections.
+    // TODO: This seems off
+    if (is != null) {
+      try {
+        is.close();
+      } catch (IOException ex) {
+        // ignore ... any significant errors should already have been
+        // reported via an IOException from the final flush.
+      }
+    }
+    if (userIS != null) {
+      try {
+        userIS.close();
+      } catch (IOException ex) {
+        // ignore ... any significant errors should already have been
+        // reported via an IOException from the final flush.
+      }
     }
   }
 
